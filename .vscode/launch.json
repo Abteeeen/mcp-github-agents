@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "GitHub MCP Server",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/mcp-server.js",
+      "console": "integratedTerminal",
+      "skipFiles": ["<node_internals>/**"]
+    },
+    {
+      "name": "Test AI Agent",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/agent.js",
+      "console": "integratedTerminal",
+      "env": {
+        "GITHUB_TOKEN": "${env:GITHUB_TOKEN}"
+      }
+    }
+  ]
+}

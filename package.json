@@ -1,0 +1,26 @@
+{
+  "name": "mcp-github-workspace",
+  "version": "1.0.0",
+  "description": "VS Code workspace with GitHub MCP server pre-configured",
+  "type": "module",
+  "main": "src/agent.js",
+  "scripts": {
+    "start": "node src/agent.js",
+    "job-market": "node src/job-market-analyzer.js",
+    "test": "node src/test.js",
+    "server": "npx -y @modelcontextprotocol/server-github"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  },
+  "keywords": [
+    "mcp",
+    "github",
+    "ai-agent",
+    "model-context-protocol"
+  ],
+  "author": "",
+  "license": "MIT"
+}
