@@ -86,7 +86,27 @@ https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXX
 
 1. Run the agent:
    ```bash
-   npm run trending-digest
+     ┌─────────────────────────────────────────────┐
+  │                    GITHUB                    │
+  │           (billions lines of code)           │
+  └─────────────────────────────────────────────┘
+                        ↓
+            GitHub MCP Agent (Agent 1)
+          (Searches & Gets Repo Data)
+                        ↓
+      [150 trending repos found this week]
+                        ↓
+          Job Analyzer Agent (Agent 2)
+        (Adds Job Market Data to Repos)
+                        ↓
+      [Now each repo has salary/demand info]
+                        ↓
+      Trending Digest Agent (Agent 3)
+      (Analyzes, Creates Report, Posts to Slack)
+                        ↓
+          📊 Beautiful Report Generated
+          📢 Posted to Slack Channel
+          📁 Data Exported to JSON
    ```
 
 2. Check your Slack channel

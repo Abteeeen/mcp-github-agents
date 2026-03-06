@@ -590,13 +590,120 @@ Stay curious! 🚀
     }
 }
 
+// Parse command-line arguments
+function parseArgs() {
+    const args = process.argv.slice(2);
+    return {
+        language: args.find(arg => arg.startsWith('--language='))?.split('=')[1] || null,
+        format: args.find(arg => arg.startsWith('--format='))?.split('=')[1] || 'json',
+        noSlack: args.includes('--no-slack'),
+        aiOnly: args.includes('--ai-only'),
+        help: args.includes('--help') || args.includes('-h')
+    };
+}
+
+function showHelp() {
+    console.log(`
+╔════════════════════════════════════════════════════════╗
+║      🤖 Trending Digest Agent - CLI Usage              ║
+╚════════════════════════════════════════════════════════╝
+
+USAGE:
+  npm run trending-digest [options]
+  node src/trending-digest.js [options]
+
+OPTIONS:
+  --language=LANG    Analyze specific language (e.g., python, javascript)
+  --ai-only          Show only AI/ML trends, skip by-language analysis
+  --no-slack         Skip Slack posting (just export JSON)
+  --format=FORMAT    Export format: json (default), csv (future)
+  --help, -h         Show this help message
+
+EXAMPLES:
+  # Default - analyze all languages
+  npm run trending-digest
+
+  # Only Python trending repos
+  npm run trending-digest -- --language=python
+
+  # AI/ML trends without Slack posting
+  npm run trending-digest -- --ai-only --no-slack
+
+  # Rust trends, skip Slack
+  npm run trending-digest -- --language=rust --no-slack
+
+  # All languages, only JSON (no Slack)
+  npm run trending-digest -- --no-slack
+
+ENVIRONMENT VARIABLES:
+  GITHUB_TOKEN       (Required) Your GitHub personal access token
+  SLACK_WEBHOOK_URL  (Optional) Your Slack incoming webhook URL
+
+═══════════════════════════════════════════════════════════
+    `);
+}
+
 // Main execution
 async function main() {
+    const args = parseArgs();
+
+    if (args.help) {
+        showHelp();
+        process.exit(0);
+    }
+
     const agent = new TrendingDigestAgent(
         GITHUB_TOKEN,
-        SLACK_WEBHOOK_URL
+        args.noSlack ? null : SLACK_WEBHOOK_URL
     );
 
+    // If specific language requested
+    if (args.language) {
+        console.log(`\n📊 Analyzing ${args.language} trending repositories...`);
+        const repos = await agent.getTrendingRepositories(args.language, 'week');
+
+        console.log(`\n🔍 Found ${repos.length} trending ${args.language} repos:\n`);
+        repos.slice(0, 10).forEach((repo, i) => {
+            console.log(`${i + 1}. ${repo.name}`);
+            console.log(`   ⭐ ${repo.stars} stars | 📁 ${repo.forks} forks`);
+            console.log(`   📝 ${repo.description?.substring(0, 60)}...`);
+            console.log('');
+        });
+
+        // Export to JSON
+        const exportPath = agent.exportToJSON({
+            language: args.language,
+            repos: repos,
+            timestamp: new Date().toISOString()
+        }, `trending-${args.language}.json`);
+
+        console.log(`✅ Data exported to: ${exportPath}`);
+        return;
+    }
+
+    // If AI-only requested
+    if (args.aiOnly) {
+        console.log(`\n🤖 Detecting AI/ML trends...`);
+        const aiTrends = await agent.detectAITrends();
+
+        console.log(`\n🔥 Found ${aiTrends.length} trending AI/ML projects:\n`);
+        aiTrends.slice(0, 20).forEach((project, i) => {
+            console.log(`${i + 1}. ${project.name}`);
+            console.log(`   ⭐ ${project.stars} stars`);
+            console.log(`   📝 ${project.description?.substring(0, 60)}...`);
+            console.log('');
+        });
+
+        const exportPath = agent.exportToJSON({
+            aiTrends: aiTrends,
+            timestamp: new Date().toISOString()
+        }, 'ai-trends.json');
+
+        console.log(`✅ Data exported to: ${exportPath}`);
+        return;
+    }
+
+    // Default - full digest
     await agent.run();
 }
 
