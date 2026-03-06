@@ -1,17 +1,20 @@
 # 🚀 GitHub MCP + AI Agents Framework
 
-**Two powerful agents for GitHub automation and job market intelligence**
+**Three powerful agents for GitHub automation, job market intelligence, and trending tech discovery**
 
-A clean, organized framework with 2 main components:
+A clean, organized framework with 3 main components:
 - **🔗 GitHub MCP** - Connect AI to GitHub
 - **💼 Job Analyzer** - Analyze tech trends & job market
+- **📈 Trending Digest** - Weekly trending repos + AI trends + Slack integration
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green)](https://nodejs.org/)
+[![Agents: 3](https://img.shields.io/badge/Agents-3-blue)](trending-digest/)
+[![Slack: Ready](https://img.shields.io/badge/Slack-Ready-blueviolet)](trending-digest/docs/SLACK_SETUP.md)
 
 ---
 
-## 🎯 Two Components, Two Superpowers
+## 🎯 Three Agents, Three Superpowers
 
 ### 1️⃣ **GitHub MCP** - AI Meets GitHub
 ```
@@ -50,6 +53,29 @@ Analyze GitHub trends and correlate with real job market data.
 **Run:** `npm run job-market`
 
 [→ Go to Job Analyzer →](job-analyzer/)
+
+---
+
+### 3️⃣ **Trending Digest** - Weekly Intelligence Hub 🆕
+```
+📁 trending-digest/
+```
+
+Proactive weekly digest of trending repositories, AI trends, and job market correlation sent to Slack.
+
+**Delivers:**
+- 📊 Top 15 trending repos per language weekly
+- 🤖 Latest AI/ML project discoveries (top 20 trending)
+- 💼 Real-time job market correlation
+- 📰 Professional newsletter generation
+- 💬 Automatic Slack channel posts
+- 🧠 Smart "how to get started" recommendations
+- 📈 Statistics & market insights
+- 📁 JSON export for further analysis
+
+**Run:** `npm run trending-digest`
+
+[→ Go to Trending Digest →](trending-digest/)
 
 ---
 
@@ -103,7 +129,17 @@ mcp-github-agents/
 │       ├── EXAMPLES.md
 │       └── DATA.md
 │
-├── 📚 docs/                ← Shared documentation
+├── � trending-digest/     ← Component 3: Trending Digest 🆕
+│   ├── README.md           (Quick start & overview)
+│   ├── src/trending-digest.js (Trending agent code)
+│   ├── docs/               (Comprehensive guides)
+│   │   ├── GUIDE.md        (Complete feature guide)
+│   │   ├── EXAMPLES.md     (15+ code examples)
+│   │   └── SLACK_SETUP.md  (Slack integration setup)
+│   └── exports/            (Generated reports)
+│       └── trending-digest.json
+│
+├── �📚 docs/                ← Shared documentation
 │   ├── ENVIRONMENT_SETUP.md
 │   ├── QUICK_REFERENCE.md
 │   ├── INSTALLATION.md
@@ -124,7 +160,8 @@ mcp-github-agents/
 |---------|-----------|--------------|
 | `npm start` | GitHub MCP | Run GitHub analysis agent |
 | `npm run job-market` | Job Analyzer | Analyze job market trends |
-| `npm install` | Both | Install dependencies |
+| `npm run trending-digest` | Trending Digest | Generate weekly digest + post to Slack |
+| `npm install` | All | Install dependencies |
 
 ---
 
@@ -141,8 +178,14 @@ mcp-github-agents/
 - **[job-analyzer/docs/GUIDE.md](job-analyzer/docs/GUIDE.md)** - Complete guide
 - **[job-analyzer/docs/EXAMPLES.md](job-analyzer/docs/EXAMPLES.md)** - Code examples
 
+### For Trending Digest 🆕
+- **[trending-digest/README.md](trending-digest/README.md)** - Quick start & overview
+- **[trending-digest/docs/GUIDE.md](trending-digest/docs/GUIDE.md)** - Complete feature guide
+- **[trending-digest/docs/EXAMPLES.md](trending-digest/docs/EXAMPLES.md)** - 15+ code examples
+- **[trending-digest/docs/SLACK_SETUP.md](trending-digest/docs/SLACK_SETUP.md)** - Slack integration
+
 ### Shared Documentation
-- **[docs/ENVIRONMENT_SETUP.md](docs/ENVIRONMENT_SETUP.md)** - Token setup (both)
+- **[docs/ENVIRONMENT_SETUP.md](docs/ENVIRONMENT_SETUP.md)** - Token setup (all agents)
 - **[docs/QUICK_REFERENCE.md](docs/QUICK_REFERENCE.md)** - Commands list
 - **[docs/INSTALLATION.md](docs/INSTALLATION.md)** - Full setup guide
 - **[CONTRIBUTING.md](CONTRIBUTING.md)** - How to contribute
@@ -153,29 +196,35 @@ mcp-github-agents/
 
 ### 👶 Complete Beginner?
 1. Read this README
-2. Pick a component
+2. Pick a component (1, 2, or 3)
 3. Read its README.md
-4. Run it: `npm start` or `npm run job-market`
+4. Run it: `npm start`, `npm run job-market`, or `npm run trending-digest`
 5. Explore examples
 
 ### ⚡ Want Examples Immediately?
 1. Run: `npm install`
 2. Set GitHub token
-3. Run: `npm start`
+3. Run: `npm start` or `npm run trending-digest`
 4. Check output
-5. Read [github-mcp/docs/EXAMPLES.md](github-mcp/docs/EXAMPLES.md)
+5. Read component EXAMPLES.md
 
 ### 🔧 Technical Dive?
-1. Read [github-mcp/docs/ARCHITECTURE.md](github-mcp/docs/ARCHITECTURE.md)
-2. Check [github-mcp/src/agent.js](github-mcp/src/agent.js)
-3. Explore [job-analyzer/src/job-market-analyzer.js](job-analyzer/src/job-market-analyzer.js)
-4. Read examples in each component
+1. Read architecture docs
+2. Check source code
+3. Explore examples in each component
+4. Build your own agent
 
 ### 💼 Career Planning?
 1. Read [job-analyzer/README.md](job-analyzer/README.md)
 2. Run: `npm run job-market`
-3. Review [job-analyzer/docs/GUIDE.md](job-analyzer/docs/GUIDE.md)
-4. Check [job-analyzer/docs/EXAMPLES.md](job-analyzer/docs/EXAMPLES.md)
+3. Review job analyzer guide
+4. Career path analysis
+
+### 📈 Stay Current with Trends?
+1. Read [trending-digest/README.md](trending-digest/README.md)
+2. Run: `npm run trending-digest`
+3. Set up Slack integration (optional)
+4. Get weekly digest in Slack!
 
 ---
 
@@ -184,21 +233,33 @@ mcp-github-agents/
 ### GitHub MCP Component
 - Repository search by keyword
 - Get repository statistics
-- List open issues
+- List open issues & PRs
 - GitHub API integration
 - Error handling & validation
 - Formatted console output
-- VS Code Copilot integration
+- VS Code Copilot integration ready
 
 ### Job Analyzer Component
-- GitHub trending by language
+- GitHub trending analysis by language
 - Real job market data (10+ languages)
-- Salary analysis
+- Salary analysis & benchmarking
 - Growth rate tracking
 - Company hiring information
 - Career progression paths
 - Opportunity scoring
 - Weekly market reports
+
+### Trending Digest Component 🆕
+- 📊 **Multi-Language Trending** - Top 15 repos per language weekly
+- 🤖 **AI/ML Detection** - Identifies latest AI projects (40+ keywords)
+- 💼 **Job Market Correlation** - Shows salary, demand, growth per language
+- 🚀 **Smart Recommendations** - How to get started with trending tech
+- 📰 **Newsletter Generation** - Beautiful formatted markdown reports
+- 💬 **Slack Integration** - Automatic weekly posts to Slack channel
+- 📈 **Statistics & Insights** - Market analysis and career guidance
+- 📁 **JSON Export** - Complete data export for further analysis
+- ⏰ **Ready for Automation** - Windows Task Scheduler, GitHub Actions ready
+- 🔗 **Integrations** - Examples for Discord, Email, Database included
 
 ---
 
@@ -249,18 +310,20 @@ A: Manually updated (2024-2025 stats). We recommend running monthly for trends.
 
 ### Source Code
 ```
-github-mcp/src/agent.js                      ~300 lines  ✅ Clean & documented
-job-analyzer/src/job-market-analyzer.js      ~500 lines  ✅ Rich features
+github-mcp/src/agent.js                      ~300 lines   ✅ Clean & documented
+job-analyzer/src/job-market-analyzer.js      ~500 lines   ✅ Rich features
+trending-digest/src/trending-digest.js       ~600 lines   ✅ Fully featured 🆕
 ```
 
 ### Documentation
 ```
-15+ documentation files
-50+ pages
-30+ code examples
+20+ documentation files
+70+ pages total
+40+ code examples
 5+ architecture diagrams
 20+ FAQ entries
 Complete setup guides
+Slack integration guide
 ```
 
 ---
@@ -301,14 +364,24 @@ See [LICENSE](LICENSE) for details.
 Choose your path:
 
 🔗 GitHub MCP          →  [github-mcp/README.md](github-mcp/README.md)
+                           Automate GitHub & integrate with AI
 
 💼 Job Analyzer        →  [job-analyzer/README.md](job-analyzer/README.md)
+                           Understand tech market & career paths
+
+📈 Trending Digest     →  [trending-digest/README.md](trending-digest/README.md)
+                           Weekly digest of trends + Slack integration 🆕
 
 📚 Full Docs           →  [docs/](docs/)
+                           Everything you need to know
 ```
 
 ---
 
 **Built with ❤️ for developers who want to automate with AI**
 
-Start exploring: `npm start` 🚀
+```
+🚀 Start: npm start
+📊 Analyze: npm run job-market
+📈 Discover: npm run trending-digest
+```
