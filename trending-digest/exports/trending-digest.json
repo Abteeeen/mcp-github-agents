@@ -1,0 +1,3736 @@
+{
+  "timestamp": "2026-03-06T10:04:53.932Z",
+  "summary": {
+    "totalRepos": 150,
+    "aiTrendingRepos": 20,
+    "languagesMonitored": 10,
+    "generatedAt": "3/6/2026, 3:34:53 PM"
+  },
+  "byLanguage": {
+    "JavaScript": [
+      {
+        "name": "xcode-claw",
+        "owner": "FinPyromancerLog",
+        "url": "https://github.com/FinPyromancerLog/xcode-claw",
+        "description": "No description",
+        "stars": 228,
+        "forks": 0,
+        "language": "JavaScript",
+        "updatedAt": "2026-03-06T10:02:45Z",
+        "topics": [
+          "ai",
+          "ai-assistant",
+          "macos-claw",
+          "macos-openclaw",
+          "openclaw",
+          "openclaw-skill",
+          "openclaw-skill-xcode",
+          "openclaw-skills",
+          "skill",
+          "skills",
+          "xcode",
+          "xcode-ai",
+          "xcode-claw",
+          "xcode-mac",
+          "xcode-openclaw",
+          "xcode-openclaw-skill",
+          "xcode-plugin",
+          "xcode-skill",
+          "xcode-skills"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 50000,
+          "avgSalary": 110000,
+          "yoyGrowth": "12%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "irflow-timeline",
+        "owner": "r3nzsec",
+        "url": "https://github.com/r3nzsec/irflow-timeline",
+        "description": "DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection.",
+        "stars": 146,
+        "forks": 20,
+        "language": "JavaScript",
+        "updatedAt": "2026-03-06T06:31:35Z",
+        "topics": [
+          "dfir",
+          "digitalforensics",
+          "forensicstriage",
+          "incidentresponse",
+          "macos",
+          "threatdetection",
+          "threathunting",
+          "timelineanalysis"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 50000,
+          "avgSalary": 110000,
+          "yoyGrowth": "12%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "openclaw-api-list",
+        "owner": "cporter202",
+        "url": "https://github.com/cporter202/openclaw-api-list",
+        "description": "This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!",
+        "stars": 110,
+        "forks": 21,
+        "language": "JavaScript",
+        "updatedAt": "2026-03-06T01:54:45Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 50000,
+          "avgSalary": 110000,
+          "yoyGrowth": "12%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "agent-experience",
+        "owner": "ygwyg",
+        "url": "https://github.com/ygwyg/agent-experience",
+        "description": "A visual reference to the patterns, surfaces, and infrastructure behind AI agents.",
+        "stars": 99,
+        "forks": 8,
+        "language": "JavaScript",
+        "updatedAt": "2026-03-06T08:57:35Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 50000,
+          "avgSalary": 110000,
+          "yoyGrowth": "12%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "chatgpt-account-creator",
+        "owner": "wahdalo",
+        "url": "https://github.com/wahdalo/chatgpt-account-creator",
+        "description": "No description",
+        "stars": 99,
+        "forks": 61,
+        "language": "JavaScript",
+        "updatedAt": "2026-03-05T16:55:14Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 50000,
+          "avgSalary": 110000,
+          "yoyGrowth": "12%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "pi-side-agents",
+        "owner": "pasky",
+        "url": "https://github.com/pasky/pi-side-agents",
+        "description": "Parallel subagents / long-running sideagents for the Pi coding agent",
+        "stars": 87,
+        "forks": 3,
+        "language": "JavaScript",
+        "updatedAt": "2026-03-06T05:22:06Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 50000,
+          "avgSalary": 110000,
+          "yoyGrowth": "12%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "claudit",
+        "owner": "marchev",
+        "url": "https://github.com/marchev/claudit",
+        "description": "MCP server for searching Solodit smart contract security findings",
+        "stars": 78,
+        "forks": 15,
+        "language": "JavaScript",
+        "updatedAt": "2026-03-06T10:00:12Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 50000,
+          "avgSalary": 110000,
+          "yoyGrowth": "12%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "ComfyUI-Panorama-Stickers",
+        "owner": "nomadoor",
+        "url": "https://github.com/nomadoor/ComfyUI-Panorama-Stickers",
+        "description": "No description",
+        "stars": 63,
+        "forks": 7,
+        "language": "JavaScript",
+        "updatedAt": "2026-03-06T09:51:04Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 50000,
+          "avgSalary": 110000,
+          "yoyGrowth": "12%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "LegacyLauncher",
+        "owner": "gradenGnostic",
+        "url": "https://github.com/gradenGnostic/LegacyLauncher",
+        "description": "A custom launcher for Minecraft LCE.",
+        "stars": 62,
+        "forks": 3,
+        "language": "JavaScript",
+        "updatedAt": "2026-03-06T06:50:47Z",
+        "topics": [
+          "minecraft",
+          "minecraft-client",
+          "minecraft-launcher",
+          "minecraftlauncher",
+          "minecraftlce",
+          "minecraftlegacyconsoleedition"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 50000,
+          "avgSalary": 110000,
+          "yoyGrowth": "12%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "deepseek-claw",
+        "owner": "Needvainverter93",
+        "url": "https://github.com/Needvainverter93/deepseek-claw",
+        "description": "No description",
+        "stars": 58,
+        "forks": 0,
+        "language": "JavaScript",
+        "updatedAt": "2026-03-06T09:49:53Z",
+        "topics": [
+          "deepseek",
+          "deepseek-ai",
+          "deepseek-api",
+          "deepseek-claw",
+          "deepseek-llm",
+          "deepseek-openclaw-skill",
+          "deepseek-r1",
+          "deepseek-skill-openclaw",
+          "deepseek-v3",
+          "openclaw",
+          "openclaw-deepseek",
+          "openclaw-skill",
+          "openclaw-skills",
+          "skill",
+          "skills"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 50000,
+          "avgSalary": 110000,
+          "yoyGrowth": "12%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "Dream-Creator",
+        "owner": "Xianyu33666",
+        "url": "https://github.com/Xianyu33666/Dream-Creator",
+        "description": "An AI-powered virtual development team of 12 specialized agents that helps you create applications through interactive collaboration. From requirement gathering to deployment, Dream Creator coordinates architects, developers, QA, and DevOps to build your ideas into reality. Supports Chinese and English languages.",
+        "stars": 58,
+        "forks": 0,
+        "language": "JavaScript",
+        "updatedAt": "2026-03-06T06:33:42Z",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-assistant",
+          "ai-tools",
+          "claudecode",
+          "cursor",
+          "first-project",
+          "first-timers",
+          "opencode",
+          "skill"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 50000,
+          "avgSalary": 110000,
+          "yoyGrowth": "12%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "bun-demincer",
+        "owner": "vicnaum",
+        "url": "https://github.com/vicnaum/bun-demincer",
+        "description": "Decompiler, deminifier and deobfuscator for Bun-compiled standalone JavaScript binaries",
+        "stars": 51,
+        "forks": 8,
+        "language": "JavaScript",
+        "updatedAt": "2026-03-06T10:04:17Z",
+        "topics": [
+          "bun",
+          "bundler",
+          "decompiler",
+          "deminifier",
+          "deobfuscator",
+          "javascript",
+          "reverse-engineering",
+          "standalone-binary"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 50000,
+          "avgSalary": 110000,
+          "yoyGrowth": "12%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "emby---worker",
+        "owner": "chenhr454",
+        "url": "https://github.com/chenhr454/emby---worker",
+        "description": "基于 Cloudflare Workers + D1 的 Emby 前后端分离反代，支持管理后台与节点管理。",
+        "stars": 49,
+        "forks": 12,
+        "language": "JavaScript",
+        "updatedAt": "2026-03-06T09:51:03Z",
+        "topics": [
+          "emby-cloudflare-workers-d1-reverse-proxy"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 50000,
+          "avgSalary": 110000,
+          "yoyGrowth": "12%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "skill-evolver",
+        "owner": "haidang1810",
+        "url": "https://github.com/haidang1810/skill-evolver",
+        "description": "No description",
+        "stars": 48,
+        "forks": 9,
+        "language": "JavaScript",
+        "updatedAt": "2026-03-06T00:25:33Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 50000,
+          "avgSalary": 110000,
+          "yoyGrowth": "12%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "claude-plan-reviewer",
+        "owner": "yuuichieguchi",
+        "url": "https://github.com/yuuichieguchi/claude-plan-reviewer",
+        "description": "Automatically review Claude Code plans using external AI CLIs",
+        "stars": 47,
+        "forks": 7,
+        "language": "JavaScript",
+        "updatedAt": "2026-03-05T01:04:42Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 50000,
+          "avgSalary": 110000,
+          "yoyGrowth": "12%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      }
+    ],
+    "Python": [
+      {
+        "name": "pm-skills",
+        "owner": "phuryn",
+        "url": "https://github.com/phuryn/pm-skills",
+        "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+        "stars": 2485,
+        "forks": 259,
+        "language": "Python",
+        "updatedAt": "2026-03-06T10:04:49Z",
+        "topics": [
+          "agent-skill-repository",
+          "agent-skills",
+          "agentic-skills",
+          "claude-code-marketplace",
+          "claude-code-plugins",
+          "claude-cowork-plugin",
+          "product-management"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 45000,
+          "avgSalary": 125000,
+          "yoyGrowth": "28%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "wechat-decrypt",
+        "owner": "ylytdeng",
+        "url": "https://github.com/ylytdeng/wechat-decrypt",
+        "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
+        "stars": 1536,
+        "forks": 1135,
+        "language": "Python",
+        "updatedAt": "2026-03-06T09:38:44Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 45000,
+          "avgSalary": 125000,
+          "yoyGrowth": "28%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "OBLITERATUS",
+        "owner": "elder-plinius",
+        "url": "https://github.com/elder-plinius/OBLITERATUS",
+        "description": "obliterate the chains that bind you",
+        "stars": 1530,
+        "forks": 288,
+        "language": "Python",
+        "updatedAt": "2026-03-06T10:00:16Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 45000,
+          "avgSalary": 125000,
+          "yoyGrowth": "28%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "br-acc",
+        "owner": "World-Open-Graph",
+        "url": "https://github.com/World-Open-Graph/br-acc",
+        "description": "World Transparency Graph public codebase (🚧 website in progress)",
+        "stars": 1321,
+        "forks": 360,
+        "language": "Python",
+        "updatedAt": "2026-03-06T08:52:51Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 45000,
+          "avgSalary": 125000,
+          "yoyGrowth": "28%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "openclaw-master-skills",
+        "owner": "LeoYeAI",
+        "url": "https://github.com/LeoYeAI/openclaw-master-skills",
+        "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
+        "stars": 1211,
+        "forks": 359,
+        "language": "Python",
+        "updatedAt": "2026-03-06T10:03:36Z",
+        "topics": [
+          "agentskills",
+          "ai-agent",
+          "curated",
+          "myclaw",
+          "openclaw",
+          "skill-collection",
+          "skills",
+          "weekly"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 45000,
+          "avgSalary": 125000,
+          "yoyGrowth": "28%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "excalidraw-diagram-skill",
+        "owner": "coleam00",
+        "url": "https://github.com/coleam00/excalidraw-diagram-skill",
+        "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams.",
+        "stars": 623,
+        "forks": 124,
+        "language": "Python",
+        "updatedAt": "2026-03-06T09:52:20Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 45000,
+          "avgSalary": 125000,
+          "yoyGrowth": "28%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "Helios",
+        "owner": "PKU-YuanGroup",
+        "url": "https://github.com/PKU-YuanGroup/Helios",
+        "description": "Helios: Real Real-Time Long Video Generation Model",
+        "stars": 616,
+        "forks": 35,
+        "language": "Python",
+        "updatedAt": "2026-03-06T09:58:45Z",
+        "topics": [
+          "acceleration",
+          "diffusion",
+          "diffusion-model",
+          "diffusion-models",
+          "efficient-tuning",
+          "high--quality",
+          "image-to-video",
+          "interactive",
+          "long-context",
+          "long-video-generation",
+          "real-time",
+          "text-to-video",
+          "video-generation",
+          "video-generator",
+          "video-to-video",
+          "world-model",
+          "world-models"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 45000,
+          "avgSalary": 125000,
+          "yoyGrowth": "28%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "ssd",
+        "owner": "tanishqkumar",
+        "url": "https://github.com/tanishqkumar/ssd",
+        "description": "A lightweight inference engine supporting speculative speculative decoding (SSD). ",
+        "stars": 602,
+        "forks": 31,
+        "language": "Python",
+        "updatedAt": "2026-03-06T09:43:39Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 45000,
+          "avgSalary": 125000,
+          "yoyGrowth": "28%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "visura-api",
+        "owner": "zornade",
+        "url": "https://github.com/zornade/visura-api",
+        "description": "Servizio API per l'estrazione automatizzata di dati catastali dal portale SISTER",
+        "stars": 436,
+        "forks": 58,
+        "language": "Python",
+        "updatedAt": "2026-03-06T09:15:04Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 45000,
+          "avgSalary": 125000,
+          "yoyGrowth": "28%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "tg-ws-proxy",
+        "owner": "Flowseal",
+        "url": "https://github.com/Flowseal/tg-ws-proxy",
+        "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
+        "stars": 426,
+        "forks": 6,
+        "language": "Python",
+        "updatedAt": "2026-03-06T09:58:39Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 45000,
+          "avgSalary": 125000,
+          "yoyGrowth": "28%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "best-skills",
+        "owner": "xstongxue",
+        "url": "https://github.com/xstongxue/best-skills",
+        "description": "通用高质量 Skills 合集🔥",
+        "stars": 317,
+        "forks": 24,
+        "language": "Python",
+        "updatedAt": "2026-03-06T10:04:00Z",
+        "topics": [
+          "skills",
+          "vibe-coding"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 45000,
+          "avgSalary": 125000,
+          "yoyGrowth": "28%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "wechat-article-to-markdown",
+        "owner": "jackwener",
+        "url": "https://github.com/jackwener/wechat-article-to-markdown",
+        "description": "微��公众号文章抓取 & Markdown 转换工具",
+        "stars": 308,
+        "forks": 36,
+        "language": "Python",
+        "updatedAt": "2026-03-06T08:00:53Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 45000,
+          "avgSalary": 125000,
+          "yoyGrowth": "28%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "worldfm",
+        "owner": "inspatio",
+        "url": "https://github.com/inspatio/worldfm",
+        "description": "No description",
+        "stars": 285,
+        "forks": 32,
+        "language": "Python",
+        "updatedAt": "2026-03-06T09:57:43Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 45000,
+          "avgSalary": 125000,
+          "yoyGrowth": "28%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "bilibili-cli",
+        "owner": "jackwener",
+        "url": "https://github.com/jackwener/bilibili-cli",
+        "description": "A CLI for Bilibili — browse videos, users, favorites from the terminal 📺",
+        "stars": 264,
+        "forks": 19,
+        "language": "Python",
+        "updatedAt": "2026-03-06T09:27:04Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 45000,
+          "avgSalary": 125000,
+          "yoyGrowth": "28%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "sora2API",
+        "owner": "ford26321works003",
+        "url": "https://github.com/ford26321works003/sora2API",
+        "description": "SORA v2 API Wrapper — Python interface for the SORA decentralized economy platform, providing balance queries, token swaps via Polkaswap DEX, liquidity pool inspection, and network status monitoring",
+        "stars": 258,
+        "forks": 113,
+        "language": "Python",
+        "updatedAt": "2026-03-06T10:03:31Z",
+        "topics": [
+          "api-wrapper",
+          "blockchain",
+          "bonding-curve",
+          "cross-chain",
+          "decentralized-exchange",
+          "defi",
+          "dex",
+          "liquidity-pool",
+          "open-source",
+          "polkadot",
+          "polkaswap",
+          "pswap",
+          "python",
+          "rich-tui",
+          "sora",
+          "substrate",
+          "token-swap",
+          "val",
+          "web3",
+          "xor"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 45000,
+          "avgSalary": 125000,
+          "yoyGrowth": "28%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      }
+    ],
+    "TypeScript": [
+      {
+        "name": "paperclip",
+        "owner": "paperclipai",
+        "url": "https://github.com/paperclipai/paperclip",
+        "description": "Open-source orchestration for zero-human companies",
+        "stars": 4076,
+        "forks": 467,
+        "language": "TypeScript",
+        "updatedAt": "2026-03-06T10:04:53Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 38000,
+          "avgSalary": 130000,
+          "yoyGrowth": "35%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "terminui",
+        "owner": "ahmadawais",
+        "url": "https://github.com/ahmadawais/terminui",
+        "description": "Super fast double buffered toolkit for building terminal UIs.",
+        "stars": 463,
+        "forks": 23,
+        "language": "TypeScript",
+        "updatedAt": "2026-03-06T08:58:33Z",
+        "topics": [
+          "terminal",
+          "tui",
+          "typescript"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 38000,
+          "avgSalary": 130000,
+          "yoyGrowth": "35%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "raphael-publish",
+        "owner": "liuxiaopai-ai",
+        "url": "https://github.com/liuxiaopai-ai/raphael-publish",
+        "description": "Raphael Publish - 公众号排版大师 | 现代 Markdown 排版引擎",
+        "stars": 388,
+        "forks": 70,
+        "language": "TypeScript",
+        "updatedAt": "2026-03-06T09:56:52Z",
+        "topics": [
+          "markdown",
+          "markdown-editor",
+          "wechat"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 38000,
+          "avgSalary": 130000,
+          "yoyGrowth": "35%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "polymarket-bot",
+        "owner": "dev-protocol",
+        "url": "https://github.com/dev-protocol/polymarket-bot",
+        "description": "Polymarket copytrading bot || polymarket copy trading bot || polymarket copy bot || ",
+        "stars": 374,
+        "forks": 6,
+        "language": "TypeScript",
+        "updatedAt": "2026-03-06T08:40:05Z",
+        "topics": [
+          "bot",
+          "polymarket",
+          "polymarket-bot",
+          "polymarket-copy-trading-bot",
+          "polymarket-copytrade-bot",
+          "polymarket-copytrading-bot",
+          "polymarket-trading-bot",
+          "trading"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 38000,
+          "avgSalary": 130000,
+          "yoyGrowth": "35%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "vmprint",
+        "owner": "cosmiciron",
+        "url": "https://github.com/cosmiciron/vmprint",
+        "description": "A pure-JS, tiny typesetting engine with bit-perfect PDF output on everything—from Cloudflare Workers to the browser. No more Headless Chrome to just print text. AND -- try the static demos on the home page below and see for yourself.",
+        "stars": 294,
+        "forks": 7,
+        "language": "TypeScript",
+        "updatedAt": "2026-03-06T09:55:14Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 38000,
+          "avgSalary": 130000,
+          "yoyGrowth": "35%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "fractals",
+        "owner": "TinyAGI",
+        "url": "https://github.com/TinyAGI/fractals",
+        "description": "Fractals is a recursive task orchestrator for agent swarm",
+        "stars": 245,
+        "forks": 18,
+        "language": "TypeScript",
+        "updatedAt": "2026-03-06T10:02:00Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 38000,
+          "avgSalary": 130000,
+          "yoyGrowth": "35%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "Claude-to-IM-skill",
+        "owner": "op7418",
+        "url": "https://github.com/op7418/Claude-to-IM-skill",
+        "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.",
+        "stars": 245,
+        "forks": 22,
+        "language": "TypeScript",
+        "updatedAt": "2026-03-06T10:04:00Z",
+        "topics": [
+          "chatbot",
+          "claude",
+          "claude-code",
+          "discord",
+          "feishu",
+          "lark",
+          "skill",
+          "telegram"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 38000,
+          "avgSalary": 130000,
+          "yoyGrowth": "35%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "openreview",
+        "owner": "vercel-labs",
+        "url": "https://github.com/vercel-labs/openreview",
+        "description": "An open-source, self-hosted AI code review bot powered by Vercel.",
+        "stars": 234,
+        "forks": 15,
+        "language": "TypeScript",
+        "updatedAt": "2026-03-06T10:04:39Z",
+        "topics": [
+          "aisdk",
+          "codereview",
+          "vercel"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 38000,
+          "avgSalary": 130000,
+          "yoyGrowth": "35%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "pancakeswap-prediction-bot",
+        "owner": "madewithai",
+        "url": "https://github.com/madewithai/pancakeswap-prediction-bot",
+        "description": "PancakeSwap prediction bot · Automated Bull/Bear betting on BSC (Binance Smart Chain). Momentum + streak-reversal strategy, configurable risk, private key. BNB ETH BTC prediction market, Node.js, viem, TypeScript.",
+        "stars": 229,
+        "forks": 20,
+        "language": "TypeScript",
+        "updatedAt": "2026-03-06T08:39:52Z",
+        "topics": [
+          "bot",
+          "pancakeswap",
+          "pancakeswap-auto-bot",
+          "pancakeswap-predict-bot",
+          "pancakeswap-prediction-ai-bot",
+          "pancakeswap-prediction-trade-bot",
+          "predict",
+          "prediction",
+          "typescript"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 38000,
+          "avgSalary": 130000,
+          "yoyGrowth": "35%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "polymarket-copytrading-bot-newlogic",
+        "owner": "MistKailorg",
+        "url": "https://github.com/MistKailorg/polymarket-copytrading-bot-newlogic",
+        "description": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot |",
+        "stars": 222,
+        "forks": 8,
+        "language": "TypeScript",
+        "updatedAt": "2026-03-06T08:35:51Z",
+        "topics": [
+          "copy-trading",
+          "copy-trading-bot",
+          "polygone",
+          "polymarket",
+          "polymarket-bot",
+          "polymarket-real-trading",
+          "polymarket-trading",
+          "polymarket-trading-bot",
+          "trading-bot"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 38000,
+          "avgSalary": 130000,
+          "yoyGrowth": "35%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "Polymarket-trading-tool",
+        "owner": "heri1845",
+        "url": "https://github.com/heri1845/Polymarket-trading-tool",
+        "description": "polymarket trading bot. polymarket copy trading bot",
+        "stars": 177,
+        "forks": 1,
+        "language": "TypeScript",
+        "updatedAt": "2026-03-06T08:35:51Z",
+        "topics": [
+          "polymarket",
+          "polymarket-copy-trading-bot",
+          "polymarket-trading-bot"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 38000,
+          "avgSalary": 130000,
+          "yoyGrowth": "35%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "Polymarket-trading-bot",
+        "owner": "MistKailorg",
+        "url": "https://github.com/MistKailorg/Polymarket-trading-bot",
+        "description": "Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot ",
+        "stars": 173,
+        "forks": 20,
+        "language": "TypeScript",
+        "updatedAt": "2026-03-06T08:35:51Z",
+        "topics": [
+          "polymarket",
+          "polymarket-copy",
+          "polymarket-copy-trading-bot",
+          "polymarket-copytrading-bot",
+          "polymarket-crypto-trading",
+          "polymarket-crypto-trading-bot",
+          "polymarket-trading",
+          "polymarket-trading-bot"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 38000,
+          "avgSalary": 130000,
+          "yoyGrowth": "35%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "LTX-Desktop",
+        "owner": "Lightricks",
+        "url": "https://github.com/Lightricks/LTX-Desktop",
+        "description": "An open-source desktop app for generating videos with LTX models",
+        "stars": 163,
+        "forks": 20,
+        "language": "TypeScript",
+        "updatedAt": "2026-03-06T10:00:23Z",
+        "topics": [
+          "generative-ai",
+          "ltx",
+          "ltx-2",
+          "non-linear-editing"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 38000,
+          "avgSalary": 130000,
+          "yoyGrowth": "35%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "daiso-mcp",
+        "owner": "hmmhmmhm",
+        "url": "https://github.com/hmmhmmhm/daiso-mcp",
+        "description": "내 주변 다이소/올리브영 매장을 찾고, 재고를 확인하는 기능을 AI에게 부여합니다. (+메가박스, CGV)",
+        "stars": 162,
+        "forks": 6,
+        "language": "TypeScript",
+        "updatedAt": "2026-03-06T08:42:50Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 38000,
+          "avgSalary": 130000,
+          "yoyGrowth": "35%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "polymarket-kalshi-momentum-trading-bot",
+        "owner": "dev-protocol",
+        "url": "https://github.com/dev-protocol/polymarket-kalshi-momentum-trading-bot",
+        "description": "Updated version - A sophisticated automated trading bot that mirrors the positions of a target trader on Polymarket. The bot continuously monitors a specified wallet address and replicates their trading positions in real-time with customizable risk management parameters. polymarket trading bot that do polymarket trading like trading bot on polymark",
+        "stars": 158,
+        "forks": 0,
+        "language": "TypeScript",
+        "updatedAt": "2026-03-06T09:28:37Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 38000,
+          "avgSalary": 130000,
+          "yoyGrowth": "35%",
+          "demand": "Very High",
+          "opportunity": "📈 Good"
+        }
+      }
+    ],
+    "Java": [
+      {
+        "name": "monogram",
+        "owner": "monogram-android",
+        "url": "https://github.com/monogram-android/monogram",
+        "description": "Telegram client for Android",
+        "stars": 43,
+        "forks": 1,
+        "language": "Java",
+        "updatedAt": "2026-03-06T01:01:52Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 42000,
+          "avgSalary": 128000,
+          "yoyGrowth": "8%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "PhotographyShareWebsite",
+        "owner": "aabishe",
+        "url": "https://github.com/aabishe/PhotographyShareWebsite",
+        "description": "有光摄影分享系统_管理系统_毕业设计源码",
+        "stars": 26,
+        "forks": 0,
+        "language": "Java",
+        "updatedAt": "2026-03-06T07:32:07Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 42000,
+          "avgSalary": 128000,
+          "yoyGrowth": "8%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "MallBackgroundManagementSystem",
+        "owner": "aabishe",
+        "url": "https://github.com/aabishe/MallBackgroundManagementSystem",
+        "description": "商城后台管理系统_管理系统_毕业设计源码",
+        "stars": 25,
+        "forks": 0,
+        "language": "Java",
+        "updatedAt": "2026-03-06T09:50:44Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 42000,
+          "avgSalary": 128000,
+          "yoyGrowth": "8%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "SmartCanteenDesignAndImplementation",
+        "owner": "aabishe",
+        "url": "https://github.com/aabishe/SmartCanteenDesignAndImplementation",
+        "description": "智慧食堂系统_管理系统_毕业设计源码",
+        "stars": 25,
+        "forks": 0,
+        "language": "Java",
+        "updatedAt": "2026-03-06T04:33:15Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 42000,
+          "avgSalary": 128000,
+          "yoyGrowth": "8%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "AntiFraudPlatformConstruction",
+        "owner": "aabishe",
+        "url": "https://github.com/aabishe/AntiFraudPlatformConstruction",
+        "description": "反欺诈平台开发系统_管理系统_毕业设计源码",
+        "stars": 25,
+        "forks": 0,
+        "language": "Java",
+        "updatedAt": "2026-03-06T08:51:28Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 42000,
+          "avgSalary": 128000,
+          "yoyGrowth": "8%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "PersonnelManagementSystem",
+        "owner": "aabishe",
+        "url": "https://github.com/aabishe/PersonnelManagementSystem",
+        "description": "人事管���系统_管理系统_毕业设计源码",
+        "stars": 25,
+        "forks": 0,
+        "language": "Java",
+        "updatedAt": "2026-03-06T07:42:08Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 42000,
+          "avgSalary": 128000,
+          "yoyGrowth": "8%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "SeckillSystemDesignAndImplementation",
+        "owner": "aabishe",
+        "url": "https://github.com/aabishe/SeckillSystemDesignAndImplementation",
+        "description": "秒杀系统设计与实现_管理系统_毕业设计源码",
+        "stars": 25,
+        "forks": 0,
+        "language": "Java",
+        "updatedAt": "2026-03-06T09:37:49Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 42000,
+          "avgSalary": 128000,
+          "yoyGrowth": "8%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "FuTaiBearingInventorySystem",
+        "owner": "aabishe",
+        "url": "https://github.com/aabishe/FuTaiBearingInventorySystem",
+        "description": "福泰轴承进销存系统_管理系统_毕业设计源码",
+        "stars": 25,
+        "forks": 0,
+        "language": "Java",
+        "updatedAt": "2026-03-06T09:20:35Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 42000,
+          "avgSalary": 128000,
+          "yoyGrowth": "8%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "WorkloadStatisticsSystem",
+        "owner": "aabishe",
+        "url": "https://github.com/aabishe/WorkloadStatisticsSystem",
+        "description": "工���量统计系统_管理系统_毕业设计源码",
+        "stars": 25,
+        "forks": 0,
+        "language": "Java",
+        "updatedAt": "2026-03-06T08:02:54Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 42000,
+          "avgSalary": 128000,
+          "yoyGrowth": "8%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "GansuIntangibleCulturalWebsiteDesignAndDevelopment",
+        "owner": "aabishe",
+        "url": "https://github.com/aabishe/GansuIntangibleCulturalWebsiteDesignAndDevelopment",
+        "description": "甘肃非物质文化网站_管理系统_毕业设计源码",
+        "stars": 25,
+        "forks": 0,
+        "language": "Java",
+        "updatedAt": "2026-03-06T09:39:35Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 42000,
+          "avgSalary": 128000,
+          "yoyGrowth": "8%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "LuoyangTourismManagementSystem",
+        "owner": "aabishe",
+        "url": "https://github.com/aabishe/LuoyangTourismManagementSystem",
+        "description": "洛阳旅游管理系统_管理系统_毕业设计源码",
+        "stars": 25,
+        "forks": 0,
+        "language": "Java",
+        "updatedAt": "2026-03-06T06:31:45Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 42000,
+          "avgSalary": 128000,
+          "yoyGrowth": "8%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "CampusRewardTaskPlatform",
+        "owner": "aabishe",
+        "url": "https://github.com/aabishe/CampusRewardTaskPlatform",
+        "description": "校园悬赏任务平台_管理系统_毕业设计源码",
+        "stars": 24,
+        "forks": 0,
+        "language": "Java",
+        "updatedAt": "2026-03-06T09:19:44Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 42000,
+          "avgSalary": 128000,
+          "yoyGrowth": "8%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "VendorManagementSystem",
+        "owner": "aabishe",
+        "url": "https://github.com/aabishe/VendorManagementSystem",
+        "description": "供应商管理系统_管理系统_毕业设计源码",
+        "stars": 24,
+        "forks": 0,
+        "language": "Java",
+        "updatedAt": "2026-03-06T08:17:31Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 42000,
+          "avgSalary": 128000,
+          "yoyGrowth": "8%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "PhysicalFitnessTestDataAnalysisAndVisualizationDesign",
+        "owner": "aabishe",
+        "url": "https://github.com/aabishe/PhysicalFitnessTestDataAnalysisAndVisualizationDesign",
+        "description": "体质测试数据分析及可视化设计系统_管理系统_毕业���计源码",
+        "stars": 24,
+        "forks": 0,
+        "language": "Java",
+        "updatedAt": "2026-03-06T02:53:19Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 42000,
+          "avgSalary": 128000,
+          "yoyGrowth": "8%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "MaterialManagementSystemDesignAndImplementation",
+        "owner": "aabishe",
+        "url": "https://github.com/aabishe/MaterialManagementSystemDesignAndImplementation",
+        "description": "物资综合管理系统_管理系统_毕业设计源码",
+        "stars": 24,
+        "forks": 0,
+        "language": "Java",
+        "updatedAt": "2026-03-06T08:49:56Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 42000,
+          "avgSalary": 128000,
+          "yoyGrowth": "8%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      }
+    ],
+    "Go": [
+      {
+        "name": "cc-connect",
+        "owner": "chenhg5",
+        "url": "https://github.com/chenhg5/cc-connect",
+        "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
+        "stars": 408,
+        "forks": 37,
+        "language": "Go",
+        "updatedAt": "2026-03-06T09:55:22Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 12000,
+          "avgSalary": 145000,
+          "yoyGrowth": "42%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "Resin",
+        "owner": "Resinat",
+        "url": "https://github.com/Resinat/Resin",
+        "description": "A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.",
+        "stars": 333,
+        "forks": 36,
+        "language": "Go",
+        "updatedAt": "2026-03-06T09:27:50Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 12000,
+          "avgSalary": 145000,
+          "yoyGrowth": "42%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "jina-cli",
+        "owner": "geekjourneyx",
+        "url": "https://github.com/geekjourneyx/jina-cli",
+        "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
+        "stars": 214,
+        "forks": 22,
+        "language": "Go",
+        "updatedAt": "2026-03-06T04:41:12Z",
+        "topics": [
+          "ai-agent",
+          "ai-tools",
+          "claude-code",
+          "cli",
+          "jina-ai-reader",
+          "openclaw",
+          "skills",
+          "url-to-markdown"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 12000,
+          "avgSalary": 145000,
+          "yoyGrowth": "42%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "VMPacker",
+        "owner": "LeoChen-CoreMind",
+        "url": "https://github.com/LeoChen-CoreMind/VMPacker",
+        "description": "ARM64 ELF Virtual Machine Protection System",
+        "stars": 197,
+        "forks": 80,
+        "language": "Go",
+        "updatedAt": "2026-03-06T09:43:37Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 12000,
+          "avgSalary": 145000,
+          "yoyGrowth": "42%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "openclaw-kapso-whatsapp",
+        "owner": "Enriquefft",
+        "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
+        "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
+        "stars": 135,
+        "forks": 13,
+        "language": "Go",
+        "updatedAt": "2026-03-06T07:21:16Z",
+        "topics": [
+          "ai",
+          "chatbot",
+          "go",
+          "kapso",
+          "meta-cloud-api",
+          "openclaw",
+          "whatsapp"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 12000,
+          "avgSalary": 145000,
+          "yoyGrowth": "42%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "ai-meme-trading-bot",
+        "owner": "heri1845",
+        "url": "https://github.com/heri1845/ai-meme-trading-bot",
+        "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
+        "stars": 132,
+        "forks": 0,
+        "language": "Go",
+        "updatedAt": "2026-03-06T08:35:51Z",
+        "topics": [
+          "ai",
+          "memecoin",
+          "trading"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 12000,
+          "avgSalary": 145000,
+          "yoyGrowth": "42%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "gitcredits",
+        "owner": "Higangssh",
+        "url": "https://github.com/Higangssh/gitcredits",
+        "description": "Roll movie-style credits for your git repo — right in the terminal",
+        "stars": 101,
+        "forks": 4,
+        "language": "Go",
+        "updatedAt": "2026-03-05T15:06:52Z",
+        "topics": [
+          "bubble-tea",
+          "cli",
+          "credits",
+          "git",
+          "golang",
+          "open-source",
+          "terminal",
+          "tui"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 12000,
+          "avgSalary": 145000,
+          "yoyGrowth": "42%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "clawshield-public",
+        "owner": "SleuthCo",
+        "url": "https://github.com/SleuthCo/clawshield-public",
+        "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
+        "stars": 89,
+        "forks": 9,
+        "language": "Go",
+        "updatedAt": "2026-03-06T09:50:54Z",
+        "topics": [
+          "ai-agents",
+          "ai-security",
+          "audit-logging",
+          "defense-in-depth",
+          "ebpf",
+          "go",
+          "llm-security",
+          "openclaw",
+          "pii-detection",
+          "prompt-injection",
+          "reverse-proxy",
+          "security-proxy",
+          "vulnerability-scanning"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 12000,
+          "avgSalary": 145000,
+          "yoyGrowth": "42%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "zenproxy",
+        "owner": "streetartist",
+        "url": "https://github.com/streetartist/zenproxy",
+        "description": "No description",
+        "stars": 77,
+        "forks": 16,
+        "language": "Go",
+        "updatedAt": "2026-03-06T08:38:27Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 12000,
+          "avgSalary": 145000,
+          "yoyGrowth": "42%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "yt-browse",
+        "owner": "nolenroyalty",
+        "url": "https://github.com/nolenroyalty/yt-browse",
+        "description": "it's like search, but for youtube",
+        "stars": 76,
+        "forks": 4,
+        "language": "Go",
+        "updatedAt": "2026-03-06T08:48:58Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 12000,
+          "avgSalary": 145000,
+          "yoyGrowth": "42%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "agentveil",
+        "owner": "vurakit",
+        "url": "https://github.com/vurakit/agentveil",
+        "description": "Your code contains API keys, passwords, and personal data. AgentVeil detects 39 PII & secret types, masks them before AI sees them — then restores on response.",
+        "stars": 71,
+        "forks": 9,
+        "language": "Go",
+        "updatedAt": "2026-03-06T02:11:42Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 12000,
+          "avgSalary": 145000,
+          "yoyGrowth": "42%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "AgentsMesh",
+        "owner": "AgentsMesh",
+        "url": "https://github.com/AgentsMesh/AgentsMesh",
+        "description": "AI Agents Command Center",
+        "stars": 56,
+        "forks": 2,
+        "language": "Go",
+        "updatedAt": "2026-03-06T08:13:57Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 12000,
+          "avgSalary": 145000,
+          "yoyGrowth": "42%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "standards-sdk-go",
+        "owner": "hashgraph-online",
+        "url": "https://github.com/hashgraph-online/standards-sdk-go",
+        "description": "The official HOL SDK for Go, implementing the Hiero Consensus Specifications (https://github.com/hiero-ledger/hiero-consensus-specifications).   See official documentation found in https://hol.org/docs/standards",
+        "stars": 45,
+        "forks": 0,
+        "language": "Go",
+        "updatedAt": "2026-03-06T07:43:31Z",
+        "topics": [
+          "agents",
+          "ai",
+          "go",
+          "golang",
+          "hcs",
+          "hedera",
+          "hedera-hashgraph",
+          "mcp-servers",
+          "sdk"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 12000,
+          "avgSalary": 145000,
+          "yoyGrowth": "42%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "pxcharts-vue",
+        "owner": "MrXujiang",
+        "url": "https://github.com/MrXujiang/pxcharts-vue",
+        "description": "Multi-dimensional table solution developed based on Vue 3 ｜ vue3实现的多维表格解决方案",
+        "stars": 44,
+        "forks": 5,
+        "language": "Go",
+        "updatedAt": "2026-03-06T02:05:44Z",
+        "topics": [
+          "multi-table",
+          "tableau",
+          "tableau-public",
+          "tablesorter",
+          "tableview",
+          "visualization",
+          "vue3-tables"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 12000,
+          "avgSalary": 145000,
+          "yoyGrowth": "42%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "EasyProxiesV2",
+        "owner": "xiamuceer-j",
+        "url": "https://github.com/xiamuceer-j/EasyProxiesV2",
+        "description": "二开项目，基于jasonwong1991佬的easy_proxies项目",
+        "stars": 41,
+        "forks": 7,
+        "language": "Go",
+        "updatedAt": "2026-03-06T08:14:00Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 12000,
+          "avgSalary": 145000,
+          "yoyGrowth": "42%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      }
+    ],
+    "Rust": [
+      {
+        "name": "cli",
+        "owner": "googleworkspace",
+        "url": "https://github.com/googleworkspace/cli",
+        "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+        "stars": 12855,
+        "forks": 433,
+        "language": "Rust",
+        "updatedAt": "2026-03-06T10:04:34Z",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "automation",
+          "cli",
+          "discovery-api",
+          "gemini-cli-extension",
+          "google-admin",
+          "google-api",
+          "google-calendar",
+          "google-chat",
+          "google-docs",
+          "google-drive",
+          "google-sheets",
+          "google-workspace",
+          "oauth2",
+          "rust"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 155000,
+          "yoyGrowth": "35%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "pi-rs",
+        "owner": "jshachm",
+        "url": "https://github.com/jshachm/pi-rs",
+        "description": "基于pi-mono，rust轻量化版本",
+        "stars": 335,
+        "forks": 38,
+        "language": "Rust",
+        "updatedAt": "2026-03-06T10:02:59Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 155000,
+          "yoyGrowth": "35%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "yoyo-evolve",
+        "owner": "yologdev",
+        "url": "https://github.com/yologdev/yoyo-evolve",
+        "description": "A coding agent that evolves itself. One commit per day.",
+        "stars": 304,
+        "forks": 23,
+        "language": "Rust",
+        "updatedAt": "2026-03-06T09:56:41Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 155000,
+          "yoyGrowth": "35%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "polymarket-trading-bot-new",
+        "owner": "dev-protocol",
+        "url": "https://github.com/dev-protocol/polymarket-trading-bot-new",
+        "description": "Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket tradin",
+        "stars": 240,
+        "forks": 1,
+        "language": "Rust",
+        "updatedAt": "2026-03-06T10:00:25Z",
+        "topics": [
+          "polymarket",
+          "polymarket-bot",
+          "polymarket-copytrade",
+          "polymarket-rust-copy-trading-bot",
+          "polymarket-rust-trading-bot",
+          "polymarket-trading",
+          "polymarket-trading-bot"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 155000,
+          "yoyGrowth": "35%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "parsync",
+        "owner": "AlpinDale",
+        "url": "https://github.com/AlpinDale/parsync",
+        "description": "Parallel rsync-like pull sync over SSH with resume",
+        "stars": 183,
+        "forks": 9,
+        "language": "Rust",
+        "updatedAt": "2026-03-06T10:02:40Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 155000,
+          "yoyGrowth": "35%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "seed-phrase-recover-BTC-ETH",
+        "owner": "Gentleatvice",
+        "url": "https://github.com/Gentleatvice/seed-phrase-recover-BTC-ETH",
+        "description": "No description",
+        "stars": 130,
+        "forks": 0,
+        "language": "Rust",
+        "updatedAt": "2026-03-06T00:01:19Z",
+        "topics": [
+          "mnemonic-recovery",
+          "seed-phrases-finder",
+          "seed-phrases-generator",
+          "seed-recovery-tool",
+          "seedphrase-checker",
+          "seedphrase-generator",
+          "tron-bruteforce"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 155000,
+          "yoyGrowth": "35%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "Doubao-Claw",
+        "owner": "Heartflabrace",
+        "url": "https://github.com/Heartflabrace/Doubao-Claw",
+        "description": "No description",
+        "stars": 123,
+        "forks": 0,
+        "language": "Rust",
+        "updatedAt": "2026-03-06T05:20:12Z",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "deepseek",
+          "doubao",
+          "doubao-api",
+          "doubao-claw",
+          "doubaoai",
+          "openclaw",
+          "openclaw-skill",
+          "openclaw-skills"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 155000,
+          "yoyGrowth": "35%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "OpenBook",
+        "owner": "DegenSugarBoo",
+        "url": "https://github.com/DegenSugarBoo/OpenBook",
+        "description": "Real-time Crypto Futures depth heatmap in Rust (egui/eframe) with live order flow and trade tape.",
+        "stars": 114,
+        "forks": 41,
+        "language": "Rust",
+        "updatedAt": "2026-03-06T00:04:16Z",
+        "topics": [
+          "egui",
+          "market-microstructure",
+          "orderbook"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 155000,
+          "yoyGrowth": "35%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "chronoh",
+        "owner": "jshachm",
+        "url": "https://github.com/jshachm/chronoh",
+        "description": "遵循harness原则，长时运行agent任务的框架，集成pi-rs",
+        "stars": 112,
+        "forks": 36,
+        "language": "Rust",
+        "updatedAt": "2026-03-06T09:42:21Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 155000,
+          "yoyGrowth": "35%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "ai-jail",
+        "owner": "akitaonrails",
+        "url": "https://github.com/akitaonrails/ai-jail",
+        "description": "Multi-OS sandbox to run AI agents with better constraints (it is not 100% secure, but enough)",
+        "stars": 76,
+        "forks": 6,
+        "language": "Rust",
+        "updatedAt": "2026-03-06T04:33:39Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 155000,
+          "yoyGrowth": "35%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "Polymarket-Kalshi-Trading-Bot",
+        "owner": "deltatrader01",
+        "url": "https://github.com/deltatrader01/Polymarket-Kalshi-Trading-Bot",
+        "description": "Polymarket-Kalshi arbitrage trading bot that exploits price inefficiencies between Kalshi and Polymarket. Kalshi Trading bot Polymarket trading bot Kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot ",
+        "stars": 71,
+        "forks": 70,
+        "language": "Rust",
+        "updatedAt": "2026-03-05T09:55:49Z",
+        "topics": [
+          "kalshi-polymarket-arbitrage-trading-bot"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 155000,
+          "yoyGrowth": "35%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "onchainos-skills",
+        "owner": "okx",
+        "url": "https://github.com/okx/onchainos-skills",
+        "description": "Skills for AI agents to integrate with the OKX OnchainOS API — Wallet, token discovery, market data, DEX swap, and transaction broadcasting.",
+        "stars": 69,
+        "forks": 6,
+        "language": "Rust",
+        "updatedAt": "2026-03-06T08:22:59Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 155000,
+          "yoyGrowth": "35%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "WinIsland",
+        "owner": "Eatgrapes",
+        "url": "https://github.com/Eatgrapes/WinIsland",
+        "description": "No description",
+        "stars": 59,
+        "forks": 4,
+        "language": "Rust",
+        "updatedAt": "2026-03-06T10:00:38Z",
+        "topics": [
+          "dynamic-island",
+          "gui",
+          "ios",
+          "rust",
+          "rust-lang",
+          "skia",
+          "win32",
+          "windows"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 155000,
+          "yoyGrowth": "35%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "juan-logs.nvim",
+        "owner": "minigian",
+        "url": "https://github.com/minigian/juan-logs.nvim",
+        "description": "A blazingly fast Rust-based large file opener plugin for Neovim",
+        "stars": 54,
+        "forks": 4,
+        "language": "Rust",
+        "updatedAt": "2026-03-06T09:57:08Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 155000,
+          "yoyGrowth": "35%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      },
+      {
+        "name": "polymarket-trading-bot-desktop-btc-2026c",
+        "owner": "Echorashop79",
+        "url": "https://github.com/Echorashop79/polymarket-trading-bot-desktop-btc-2026c",
+        "description": "🚀 Execute profitable trades with this Rust-based arbitrage bot for Polymarket, monitoring BTC and SOL 15-minute price prediction markets.",
+        "stars": 52,
+        "forks": 3,
+        "language": "Rust",
+        "updatedAt": "2026-03-06T09:59:06Z",
+        "topics": [
+          "bitcoin",
+          "block-engine",
+          "blockchain",
+          "bot",
+          "crypto",
+          "discord",
+          "discord-bot",
+          "ethereum",
+          "grpc",
+          "kalshi",
+          "memecoin",
+          "onchain",
+          "polygon",
+          "prediction-market-bot",
+          "profitable",
+          "rust-trading-bot",
+          "solana",
+          "trading"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 155000,
+          "yoyGrowth": "35%",
+          "demand": "High",
+          "opportunity": "📈 Good"
+        }
+      }
+    ],
+    "C++": [
+      {
+        "name": "MinecraftConsoles",
+        "owner": "smartcmd",
+        "url": "https://github.com/smartcmd/MinecraftConsoles",
+        "description": "A certain block game",
+        "stars": 3106,
+        "forks": 563,
+        "language": "C++",
+        "updatedAt": "2026-03-06T10:04:29Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 15000,
+          "avgSalary": 135000,
+          "yoyGrowth": "10%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "LCEMP",
+        "owner": "LCEMP",
+        "url": "https://github.com/LCEMP/LCEMP",
+        "description": "A fork of minecraft LCE with LAN multiplayer support and other fixes.",
+        "stars": 705,
+        "forks": 95,
+        "language": "C++",
+        "updatedAt": "2026-03-06T09:57:48Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 15000,
+          "avgSalary": 135000,
+          "yoyGrowth": "10%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "4jcraft",
+        "owner": "4jcraft",
+        "url": "https://github.com/4jcraft/4jcraft",
+        "description": "Leaked version of Minecraft Legacy Console Edition. Not for commercial purposes",
+        "stars": 372,
+        "forks": 42,
+        "language": "C++",
+        "updatedAt": "2026-03-06T09:58:51Z",
+        "topics": [
+          "c",
+          "console",
+          "cpp",
+          "legacy",
+          "legacyconsole",
+          "minecraft",
+          "ps",
+          "ps3",
+          "psvita",
+          "xbox"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 15000,
+          "avgSalary": 135000,
+          "yoyGrowth": "10%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "ANE-LM",
+        "owner": "johnmai-dev",
+        "url": "https://github.com/johnmai-dev/ANE-LM",
+        "description": "LLM inference on Apple Neural Engine (ANE) ",
+        "stars": 111,
+        "forks": 7,
+        "language": "C++",
+        "updatedAt": "2026-03-06T03:14:39Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 15000,
+          "avgSalary": 135000,
+          "yoyGrowth": "10%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "UEEditorMCP",
+        "owner": "yangskin",
+        "url": "https://github.com/yangskin/UEEditorMCP",
+        "description": "No description",
+        "stars": 38,
+        "forks": 6,
+        "language": "C++",
+        "updatedAt": "2026-03-06T09:37:20Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 15000,
+          "avgSalary": 135000,
+          "yoyGrowth": "10%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "FL-Studio-25.2.4.5242-Windows",
+        "owner": "Stringibnsing",
+        "url": "https://github.com/Stringibnsing/FL-Studio-25.2.4.5242-Windows",
+        "description": "FL Studio 25.2.4.5242 for Windows is a powerful DAW for music production, offering advanced features like multi-track recording, mixing, and plugin support.",
+        "stars": 33,
+        "forks": 0,
+        "language": "C++",
+        "updatedAt": "2026-03-03T16:52:05Z",
+        "topics": [
+          "audio-editing",
+          "audio-recording",
+          "beat-making",
+          "daw-software",
+          "digital-audio-workstation",
+          "fl-studio-windows",
+          "midi-sequencer",
+          "mixing-and-mastering",
+          "music-creation",
+          "music-production",
+          "music-production-for-beginners",
+          "professional-music-software",
+          "sound-design",
+          "vst-plugins",
+          "windows-daw"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 15000,
+          "avgSalary": 135000,
+          "yoyGrowth": "10%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "flock-detection",
+        "owner": "zmattmanz",
+        "url": "https://github.com/zmattmanz/flock-detection",
+        "description": "ESP32-S3 surveillance detector — identifies Flock Safety ALPR cameras and Raven gunshot detectors via WiFi/BLE with confidence scoring, GPS-tagged CSV logging, and OLED display",
+        "stars": 32,
+        "forks": 0,
+        "language": "C++",
+        "updatedAt": "2026-03-05T15:41:02Z",
+        "topics": [
+          "alpr",
+          "arduino",
+          "ble",
+          "deflock",
+          "esp32",
+          "flock-safety",
+          "foia",
+          "privacy",
+          "raven",
+          "surveillance-detection",
+          "wifi"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 15000,
+          "avgSalary": 135000,
+          "yoyGrowth": "10%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "Davinchi-Resolve-Studio-v20.3-Windows",
+        "owner": "TheaterWalker",
+        "url": "https://github.com/TheaterWalker/Davinchi-Resolve-Studio-v20.3-Windows",
+        "description": "DaVinci Resolve Studio 20.3 for Windows – professional video editing, color grading, VFX, audio post-production, 4K/8K support, AI tools, HDR workflow.",
+        "stars": 32,
+        "forks": 0,
+        "language": "C++",
+        "updatedAt": "2026-03-03T16:52:05Z",
+        "topics": [
+          "4k-editing",
+          "8k-editing",
+          "ai-tools",
+          "audio-editing",
+          "color-correction",
+          "color-grading",
+          "content-creation",
+          "davinci-resolve-20-3",
+          "hdr-editing",
+          "motion-graphics",
+          "non-linear-editing",
+          "post-production",
+          "vfx",
+          "video-editing",
+          "video-editing-software",
+          "video-editor",
+          "visual-effects"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 15000,
+          "avgSalary": 135000,
+          "yoyGrowth": "10%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "vrc-fish",
+        "owner": "abligail",
+        "url": "https://github.com/abligail/vrc-fish",
+        "description": "No description",
+        "stars": 30,
+        "forks": 8,
+        "language": "C++",
+        "updatedAt": "2026-03-06T07:44:58Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 15000,
+          "avgSalary": 135000,
+          "yoyGrowth": "10%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "Lossless-Scaling-Desktop",
+        "owner": "SailmakerLock",
+        "url": "https://github.com/SailmakerLock/Lossless-Scaling-Desktop",
+        "description": "⭐️ Lossless Scaling March 2026 | Lossless Scaling Key | Lossless Scaling Full Unlocked Version 2026 | Lossless Scaling Download ⭐️",
+        "stars": 28,
+        "forks": 1,
+        "language": "C++",
+        "updatedAt": "2026-03-06T09:58:47Z",
+        "topics": [
+          "4k-upscaling",
+          "frame-generation",
+          "fullscreen-optimization",
+          "game-upscaler",
+          "gaming-optimization",
+          "gaming-software",
+          "gpu-optimization",
+          "graphics-scaling",
+          "integer-scaling",
+          "lossless-scaling",
+          "low-end-pc",
+          "pc-gaming",
+          "pc-performance",
+          "performance-tuning",
+          "retro-gaming",
+          "windows-10",
+          "windows-11",
+          "windows-app"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 15000,
+          "avgSalary": 135000,
+          "yoyGrowth": "10%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "nfs-recompiled",
+        "owner": "motor-dev",
+        "url": "https://github.com/motor-dev/nfs-recompiled",
+        "description": "No description",
+        "stars": 24,
+        "forks": 0,
+        "language": "C++",
+        "updatedAt": "2026-03-06T08:18:37Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 15000,
+          "avgSalary": 135000,
+          "yoyGrowth": "10%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "SteamVRLinuxFixes",
+        "owner": "BnuuySolutions",
+        "url": "https://github.com/BnuuySolutions/SteamVRLinuxFixes",
+        "description": "A Vulkan layer that patches SteamVR's vrcompositor to address issues for wired headsets",
+        "stars": 24,
+        "forks": 0,
+        "language": "C++",
+        "updatedAt": "2026-03-05T21:24:51Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 15000,
+          "avgSalary": 135000,
+          "yoyGrowth": "10%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "minecraft-pe-source-code",
+        "owner": "deepfriedwaffles",
+        "url": "https://github.com/deepfriedwaffles/minecraft-pe-source-code",
+        "description": "It's the source code for the original Minecraft PE, developing for modern iDevices.",
+        "stars": 19,
+        "forks": 9,
+        "language": "C++",
+        "updatedAt": "2026-03-06T07:48:09Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 15000,
+          "avgSalary": 135000,
+          "yoyGrowth": "10%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "Darwin",
+        "owner": "android-cat",
+        "url": "https://github.com/android-cat/Darwin",
+        "description": "No description",
+        "stars": 16,
+        "forks": 2,
+        "language": "C++",
+        "updatedAt": "2026-03-05T15:12:26Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 15000,
+          "avgSalary": 135000,
+          "yoyGrowth": "10%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "augur",
+        "owner": "0avx",
+        "url": "https://github.com/0avx/augur",
+        "description": "Riot Vanguard streamed module to PE converter. Resolves hashed imports, reconstructs sections, and writes valid DLLs from RITO format binaries. ",
+        "stars": 13,
+        "forks": 2,
+        "language": "C++",
+        "updatedAt": "2026-03-05T02:29:31Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 15000,
+          "avgSalary": 135000,
+          "yoyGrowth": "10%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      }
+    ],
+    "C#": [
+      {
+        "name": "DLLHijackHunter",
+        "owner": "ghostvectoracademy",
+        "url": "https://github.com/ghostvectoracademy/DLLHijackHunter",
+        "description": "Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-confirms exploitable DLL hijacks on Windows with tiered confidence scoring",
+        "stars": 158,
+        "forks": 16,
+        "language": "C#",
+        "updatedAt": "2026-03-06T09:40:43Z",
+        "topics": [
+          "bug-bounty",
+          "bugbounty",
+          "bugbounty-tool",
+          "cybersecurity",
+          "cybersecurity-tools",
+          "dll-hijack",
+          "dll-hijacking",
+          "dll-hooking",
+          "dll-injection",
+          "dll-sideloading",
+          "pentesting",
+          "privilege-escalation",
+          "red-team",
+          "red-team-tools",
+          "vulnerability-scanners"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 28000,
+          "avgSalary": 120000,
+          "yoyGrowth": "15%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "Unity-Environment-Query-System",
+        "owner": "adammyhre",
+        "url": "https://github.com/adammyhre/Unity-Environment-Query-System",
+        "description": "No description",
+        "stars": 32,
+        "forks": 8,
+        "language": "C#",
+        "updatedAt": "2026-03-04T08:15:54Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 28000,
+          "avgSalary": 120000,
+          "yoyGrowth": "15%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "PurrUI",
+        "owner": "PurrNet",
+        "url": "https://github.com/PurrNet/PurrUI",
+        "description": "A stack based screen manager for Unity's UI.",
+        "stars": 31,
+        "forks": 0,
+        "language": "C#",
+        "updatedAt": "2026-03-06T09:12:21Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 28000,
+          "avgSalary": 120000,
+          "yoyGrowth": "15%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "LightLeakEffectExample",
+        "owner": "keijiro",
+        "url": "https://github.com/keijiro/LightLeakEffectExample",
+        "description": "Light Leak Effect with Unity URP",
+        "stars": 22,
+        "forks": 1,
+        "language": "C#",
+        "updatedAt": "2026-03-06T02:02:47Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 28000,
+          "avgSalary": 120000,
+          "yoyGrowth": "15%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "AudioAuditor",
+        "owner": "Angel2mp3",
+        "url": "https://github.com/Angel2mp3/AudioAuditor",
+        "description": "Windows desktop app for analyzing audio quality — detects fake lossless, clipping, MQA, AI-generated audio, and more. Built-in player with EQ, spatial audio, spectrogram viewer, and 10 themes.",
+        "stars": 22,
+        "forks": 0,
+        "language": "C#",
+        "updatedAt": "2026-03-06T07:44:47Z",
+        "topics": [
+          "ai",
+          "analysis",
+          "audio",
+          "audio-analysis",
+          "audio-player",
+          "audio-processing",
+          "audio-visualizer",
+          "bpm",
+          "checker",
+          "cli",
+          "clipping",
+          "csharp",
+          "detector",
+          "gui",
+          "lossless",
+          "mqa",
+          "music",
+          "net",
+          "spectrogram"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 28000,
+          "avgSalary": 120000,
+          "yoyGrowth": "15%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "agent-skills-dotnet-demo",
+        "owner": "Azure-Samples",
+        "url": "https://github.com/Azure-Samples/agent-skills-dotnet-demo",
+        "description": "Sample .NET 10 console app showcasing Microsoft Agent Framework Agent Skills",
+        "stars": 18,
+        "forks": 5,
+        "language": "C#",
+        "updatedAt": "2026-03-05T18:28:53Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 28000,
+          "avgSalary": 120000,
+          "yoyGrowth": "15%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "AgentQL",
+        "owner": "daniel3303",
+        "url": "https://github.com/daniel3303/AgentQL",
+        "description": "Reusable .NET library that translates EF Core models into LLM-friendly schema descriptions and provides safe SQL query execution for AI agents.",
+        "stars": 17,
+        "forks": 1,
+        "language": "C#",
+        "updatedAt": "2026-03-05T07:15:27Z",
+        "topics": [
+          "agentic",
+          "ai",
+          "ai-agents",
+          "ai-tools",
+          "anthropic",
+          "dotnet",
+          "efcore",
+          "generative-ai",
+          "llm",
+          "microsoft-extensions-ai",
+          "nuget",
+          "ollama",
+          "openai",
+          "rag"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 28000,
+          "avgSalary": 120000,
+          "yoyGrowth": "15%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "PerformanceStudio",
+        "owner": "erikdarlingdata",
+        "url": "https://github.com/erikdarlingdata/PerformanceStudio",
+        "description": "SQL Server execution plan analyzer — cross-platform CLI and desktop GUI",
+        "stars": 13,
+        "forks": 4,
+        "language": "C#",
+        "updatedAt": "2026-03-06T09:54:44Z",
+        "topics": [
+          "avalonia",
+          "cross-platform",
+          "database-performance",
+          "dba-tools",
+          "dotnet",
+          "execution-plan",
+          "query-performance",
+          "query-store",
+          "query-tuning",
+          "sql-server",
+          "sql-server-management",
+          "sqlplan"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 28000,
+          "avgSalary": 120000,
+          "yoyGrowth": "15%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "minerva-archive",
+        "owner": "Mrloic23",
+        "url": "https://github.com/Mrloic23/minerva-archive",
+        "description": "No description",
+        "stars": 12,
+        "forks": 0,
+        "language": "C#",
+        "updatedAt": "2026-03-06T00:22:24Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 28000,
+          "avgSalary": 120000,
+          "yoyGrowth": "15%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "eft-dma-radar",
+        "owner": "dma-educational-resources",
+        "url": "https://github.com/dma-educational-resources/eft-dma-radar",
+        "description": "A WPF remaster of the original Lone EFT DMA Radar.",
+        "stars": 11,
+        "forks": 3,
+        "language": "C#",
+        "updatedAt": "2026-03-06T06:29:13Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 28000,
+          "avgSalary": 120000,
+          "yoyGrowth": "15%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "sui-dotnet-sdk",
+        "owner": "dx3mirror",
+        "url": "https://github.com/dx3mirror/sui-dotnet-sdk",
+        "description": "No description",
+        "stars": 10,
+        "forks": 0,
+        "language": "C#",
+        "updatedAt": "2026-03-04T21:59:52Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 28000,
+          "avgSalary": 120000,
+          "yoyGrowth": "15%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "Unity-ACT-Skill-Editor",
+        "owner": "Gehenna2992",
+        "url": "https://github.com/Gehenna2992/Unity-ACT-Skill-Editor",
+        "description": "unity技能动作编辑器",
+        "stars": 10,
+        "forks": 1,
+        "language": "C#",
+        "updatedAt": "2026-03-05T14:29:11Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 28000,
+          "avgSalary": 120000,
+          "yoyGrowth": "15%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "BaseLib-StS2",
+        "owner": "Alchyr",
+        "url": "https://github.com/Alchyr/BaseLib-StS2",
+        "description": "Slay the Spire 2 mod base",
+        "stars": 10,
+        "forks": 1,
+        "language": "C#",
+        "updatedAt": "2026-03-06T10:03:08Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 28000,
+          "avgSalary": 120000,
+          "yoyGrowth": "15%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "STS2_Learner",
+        "owner": "ArthasLiuYang",
+        "url": "https://github.com/ArthasLiuYang/STS2_Learner",
+        "description": "No description",
+        "stars": 9,
+        "forks": 1,
+        "language": "C#",
+        "updatedAt": "2026-03-06T08:01:06Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 28000,
+          "avgSalary": 120000,
+          "yoyGrowth": "15%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "dbd-external-2026",
+        "owner": "Downloadzyaswitch",
+        "url": "https://github.com/Downloadzyaswitch/dbd-external-2026",
+        "description": "⭐️DBD Aimbot | DBD ESP | DBD DLC | Dead by Daylight external 2026 | Dead by Daylight Aimbot | Dead by Daylight External Full Unlocked Version 2026 | Dead by Daylight External Download | Dead by Daylight ESP |  Dead by Daylight DLC  | Dead by Daylight skin unlocker  ⭐️",
+        "stars": 9,
+        "forks": 0,
+        "language": "C#",
+        "updatedAt": "2026-03-06T09:58:26Z",
+        "topics": [
+          "daylight",
+          "pakbypass"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 28000,
+          "avgSalary": 120000,
+          "yoyGrowth": "15%",
+          "demand": "High",
+          "opportunity": "📊 Decent"
+        }
+      }
+    ],
+    "Kotlin": [
+      {
+        "name": "Lumera",
+        "owner": "LumeraD3v",
+        "url": "https://github.com/LumeraD3v/Lumera",
+        "description": "Android TV streaming app for Stremio addons",
+        "stars": 55,
+        "forks": 2,
+        "language": "Kotlin",
+        "updatedAt": "2026-03-06T06:47:35Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 118000,
+          "yoyGrowth": "22%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "alian-android",
+        "owner": "xlb1130",
+        "url": "https://github.com/xlb1130/alian-android",
+        "description": "想拥有自己的豆包/豆包手机吗？看看Alian，语音通话、视频通���、手机自动化、MCP可配...",
+        "stars": 40,
+        "forks": 3,
+        "language": "Kotlin",
+        "updatedAt": "2026-03-06T10:03:07Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 118000,
+          "yoyGrowth": "22%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "blyy",
+        "owner": "oneroomlife",
+        "url": "https://github.com/oneroomlife/blyy",
+        "description": "碧蓝语音是一款专为碧蓝航线玩家设计的语音播放器应用，提供优雅的界面和流畅的用户体验。用户可以浏览舰娘列表、收藏喜爱的角色、播放各种语音台词，并享受精美的视觉效果。",
+        "stars": 26,
+        "forks": 0,
+        "language": "Kotlin",
+        "updatedAt": "2026-03-06T02:11:43Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 118000,
+          "yoyGrowth": "22%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "diagonal-wipe-icon",
+        "owner": "bernaferrari",
+        "url": "https://github.com/bernaferrari/diagonal-wipe-icon",
+        "description": "A one-file icon transition component for Compose",
+        "stars": 24,
+        "forks": 2,
+        "language": "Kotlin",
+        "updatedAt": "2026-03-06T09:48:42Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 118000,
+          "yoyGrowth": "22%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "ThunderPass",
+        "owner": "guilhermelimait",
+        "url": "https://github.com/guilhermelimait/ThunderPass",
+        "description": "No description",
+        "stars": 22,
+        "forks": 0,
+        "language": "Kotlin",
+        "updatedAt": "2026-03-06T08:50:34Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 118000,
+          "yoyGrowth": "22%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "adobo",
+        "owner": "jkennethcarino",
+        "url": "https://github.com/jkennethcarino/adobo",
+        "description": "Patches for Morphe to disable ads, trackers and analytics, remove Reddit ads everywhere, always open Gboard in incognito mode, and much more! ",
+        "stars": 13,
+        "forks": 0,
+        "language": "Kotlin",
+        "updatedAt": "2026-03-06T06:56:59Z",
+        "topics": [
+          "adblocking",
+          "android",
+          "dalvik",
+          "kotlin",
+          "morphe",
+          "morphe-patches",
+          "privacy",
+          "reverse-engineering",
+          "smali"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 118000,
+          "yoyGrowth": "22%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "SwiftSlate",
+        "owner": "Musheer360",
+        "url": "https://github.com/Musheer360/SwiftSlate",
+        "description": "Android accessibility service for AI-powered text transformation",
+        "stars": 11,
+        "forks": 1,
+        "language": "Kotlin",
+        "updatedAt": "2026-03-04T08:11:52Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 118000,
+          "yoyGrowth": "22%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "HyperOriG",
+        "owner": "KiriChen-Wind",
+        "url": "https://github.com/KiriChen-Wind/HyperOriG",
+        "description": "为 NickHCK YuanDao OriG in 耳机接入 Xiaomi HyperOS 。",
+        "stars": 11,
+        "forks": 0,
+        "language": "Kotlin",
+        "updatedAt": "2026-03-05T16:10:36Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 118000,
+          "yoyGrowth": "22%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "LiteWebTV",
+        "owner": "YukonKong",
+        "url": "https://github.com/YukonKong/LiteWebTV",
+        "description": "No description",
+        "stars": 11,
+        "forks": 0,
+        "language": "Kotlin",
+        "updatedAt": "2026-03-05T00:12:00Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 118000,
+          "yoyGrowth": "22%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "ClawWatch",
+        "owner": "ThinkOffApp",
+        "url": "https://github.com/ThinkOffApp/ClawWatch",
+        "description": "The first intelligent AI agent running natively on a smartwatch — NullClaw + Vosk offline STT + Claude Opus 4.6 on Galaxy Watch",
+        "stars": 10,
+        "forks": 2,
+        "language": "Kotlin",
+        "updatedAt": "2026-03-06T09:22:40Z",
+        "topics": [
+          "ai-agent",
+          "android",
+          "galaxy-watch",
+          "nullclaw",
+          "offline-ai",
+          "smartwatch",
+          "voice-assistant",
+          "wear-os"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 118000,
+          "yoyGrowth": "22%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "EyeDropper_API",
+        "owner": "NicosNicolaou16",
+        "url": "https://github.com/NicosNicolaou16/EyeDropper_API",
+        "description": "This open-source project demonstrates the implementation of the Eye Dropper API in Android using Jetpack Compose. It allows users to precisely pick colors from any part of the screen or specific images, making it an essential tool for creative and design-oriented applications.",
+        "stars": 10,
+        "forks": 1,
+        "language": "Kotlin",
+        "updatedAt": "2026-03-05T23:27:58Z",
+        "topics": [
+          "android",
+          "android-application",
+          "android17",
+          "api",
+          "color-picker",
+          "dragonball",
+          "experimental",
+          "eye-dropper",
+          "eye-dropper-api",
+          "jetpack-compose",
+          "kotlin",
+          "kotlin-android",
+          "native-color-picker",
+          "sample-app"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 118000,
+          "yoyGrowth": "22%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "DynamicWeather",
+        "owner": "thisAAY",
+        "url": "https://github.com/thisAAY/DynamicWeather",
+        "description": "An experiment in agent-side-driven UI on Android — layouts defined as JSON, redesigned in real time by an LLM agent responding to natural-language requests",
+        "stars": 10,
+        "forks": 1,
+        "language": "Kotlin",
+        "updatedAt": "2026-03-05T14:57:09Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 118000,
+          "yoyGrowth": "22%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "febmod-hypixel-free",
+        "owner": "FebEmpire",
+        "url": "https://github.com/FebEmpire/febmod-hypixel-free",
+        "description": "No description",
+        "stars": 8,
+        "forks": 1,
+        "language": "Kotlin",
+        "updatedAt": "2026-03-06T06:31:34Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 118000,
+          "yoyGrowth": "22%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "MetaPurge",
+        "owner": "potatameister",
+        "url": "https://github.com/potatameister/MetaPurge",
+        "description": "WIP",
+        "stars": 8,
+        "forks": 1,
+        "language": "Kotlin",
+        "updatedAt": "2026-03-06T09:41:09Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 118000,
+          "yoyGrowth": "22%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "course_schedule_for_CHD",
+        "owner": "code-cycler",
+        "url": "https://github.com/code-cycler/course_schedule_for_CHD",
+        "description": "a android course schedule app for CHD",
+        "stars": 8,
+        "forks": 3,
+        "language": "Kotlin",
+        "updatedAt": "2026-03-06T09:23:07Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 8000,
+          "avgSalary": 118000,
+          "yoyGrowth": "22%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      }
+    ],
+    "Swift": [
+      {
+        "name": "claude-usage-bar",
+        "owner": "Blimp-Labs",
+        "url": "https://github.com/Blimp-Labs/claude-usage-bar",
+        "description": "A macOS menu bar app that shows your Claude API usage at a glance",
+        "stars": 135,
+        "forks": 15,
+        "language": "Swift",
+        "updatedAt": "2026-03-06T09:23:34Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 6000,
+          "avgSalary": 115000,
+          "yoyGrowth": "5%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "screen-commentator",
+        "owner": "r1cA18",
+        "url": "https://github.com/r1cA18/screen-commentator",
+        "description": "macOS app that captures your screen and generates scrolling AI comments overlay",
+        "stars": 117,
+        "forks": 6,
+        "language": "Swift",
+        "updatedAt": "2026-03-05T00:41:12Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 6000,
+          "avgSalary": 115000,
+          "yoyGrowth": "5%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "kanban-code",
+        "owner": "langwatch",
+        "url": "https://github.com/langwatch/kanban-code",
+        "description": "No description",
+        "stars": 102,
+        "forks": 10,
+        "language": "Swift",
+        "updatedAt": "2026-03-05T18:52:45Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 6000,
+          "avgSalary": 115000,
+          "yoyGrowth": "5%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "tvbox-Swift",
+        "owner": "Jstrom2022",
+        "url": "https://github.com/Jstrom2022/tvbox-Swift",
+        "description": "TVBox-Swift 是一套基于原生 Swift & SwiftUI 构建的跨平台多媒体应用核心工程。它同时支持 macOS 和 iOS 设备，致力于在双端提供无缝、现代且极其流畅的视听体验。",
+        "stars": 87,
+        "forks": 13,
+        "language": "Swift",
+        "updatedAt": "2026-03-05T16:22:33Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 6000,
+          "avgSalary": 115000,
+          "yoyGrowth": "5%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "cleardisk",
+        "owner": "bysiber",
+        "url": "https://github.com/bysiber/cleardisk",
+        "description": "Free macOS menu bar app to visualize and clean developer caches (Xcode, node_modules, CocoaPods, SPM, Docker, pip, Cargo). Reclaim disk space instantly.",
+        "stars": 64,
+        "forks": 5,
+        "language": "Swift",
+        "updatedAt": "2026-03-06T09:57:16Z",
+        "topics": [
+          "cache-cleaner",
+          "developer-tools",
+          "disk-analyzer",
+          "disk-cleaner",
+          "disk-space",
+          "docker",
+          "free-disk-space",
+          "homebrew",
+          "mac-cleanup",
+          "macos",
+          "macos-app",
+          "menu-bar-app",
+          "node-modules",
+          "npm",
+          "open-source",
+          "storage-manager",
+          "swift",
+          "swiftui",
+          "xcode",
+          "xcode-deriveddata"
+        ],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 6000,
+          "avgSalary": 115000,
+          "yoyGrowth": "5%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "apple-code",
+        "owner": "dkyazzentwatwa",
+        "url": "https://github.com/dkyazzentwatwa/apple-code",
+        "description": "Apple Intelligence CLI",
+        "stars": 62,
+        "forks": 0,
+        "language": "Swift",
+        "updatedAt": "2026-03-05T01:23:21Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 6000,
+          "avgSalary": 115000,
+          "yoyGrowth": "5%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "DevAtlasMac",
+        "owner": "kodzamani",
+        "url": "https://github.com/kodzamani/DevAtlasMac",
+        "description": "No description",
+        "stars": 56,
+        "forks": 0,
+        "language": "Swift",
+        "updatedAt": "2026-03-06T07:40:29Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 6000,
+          "avgSalary": 115000,
+          "yoyGrowth": "5%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "PortWorld",
+        "owner": "portworld",
+        "url": "https://github.com/portworld/PortWorld",
+        "description": "No description",
+        "stars": 42,
+        "forks": 4,
+        "language": "Swift",
+        "updatedAt": "2026-03-05T19:06:22Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 6000,
+          "avgSalary": 115000,
+          "yoyGrowth": "5%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "Clamper",
+        "owner": "validatedev",
+        "url": "https://github.com/validatedev/Clamper",
+        "description": "The app that \"clamps\" your precious menu bar.",
+        "stars": 39,
+        "forks": 0,
+        "language": "Swift",
+        "updatedAt": "2026-03-06T08:56:11Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 6000,
+          "avgSalary": 115000,
+          "yoyGrowth": "5%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "Pirate-LLM-Server",
+        "owner": "Pinperepette",
+        "url": "https://github.com/Pinperepette/Pirate-LLM-Server",
+        "description": "No description",
+        "stars": 30,
+        "forks": 2,
+        "language": "Swift",
+        "updatedAt": "2026-03-05T19:46:41Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 6000,
+          "avgSalary": 115000,
+          "yoyGrowth": "5%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "PasteClip",
+        "owner": "minsang-alt",
+        "url": "https://github.com/minsang-alt/PasteClip",
+        "description": "“Paste” app alternative (free)",
+        "stars": 30,
+        "forks": 0,
+        "language": "Swift",
+        "updatedAt": "2026-03-06T08:58:26Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 6000,
+          "avgSalary": 115000,
+          "yoyGrowth": "5%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "readinglist",
+        "owner": "marckohlbrugge",
+        "url": "https://github.com/marckohlbrugge/readinglist",
+        "description": "No description",
+        "stars": 29,
+        "forks": 3,
+        "language": "Swift",
+        "updatedAt": "2026-03-02T18:55:21Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 6000,
+          "avgSalary": 115000,
+          "yoyGrowth": "5%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "Orbit",
+        "owner": "Bowl42",
+        "url": "https://github.com/Bowl42/Orbit",
+        "description": "No description",
+        "stars": 28,
+        "forks": 4,
+        "language": "Swift",
+        "updatedAt": "2026-03-06T08:49:35Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 6000,
+          "avgSalary": 115000,
+          "yoyGrowth": "5%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "refiner",
+        "owner": "jshchnz",
+        "url": "https://github.com/jshchnz/refiner",
+        "description": "A macOS app for data refinement",
+        "stars": 28,
+        "forks": 1,
+        "language": "Swift",
+        "updatedAt": "2026-03-06T07:42:10Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 6000,
+          "avgSalary": 115000,
+          "yoyGrowth": "5%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      },
+      {
+        "name": "masko-code",
+        "owner": "RousselPaul",
+        "url": "https://github.com/RousselPaul/masko-code",
+        "description": "Masko Code — a living mascot companion for your terminal",
+        "stars": 25,
+        "forks": 5,
+        "language": "Swift",
+        "updatedAt": "2026-03-06T09:18:14Z",
+        "topics": [],
+        "isPrimary": true,
+        "jobMarketData": {
+          "openings": 6000,
+          "avgSalary": 115000,
+          "yoyGrowth": "5%",
+          "demand": "Medium",
+          "opportunity": "📊 Decent"
+        }
+      }
+    ]
+  },
+  "aiTrends": [
+    {
+      "name": "AWESOME-OCR-LLM",
+      "owner": "Yuliang-Liu",
+      "url": "https://github.com/Yuliang-Liu/AWESOME-OCR-LLM",
+      "description": "OCR in the Era of Large Language Models",
+      "stars": 173,
+      "forks": 5,
+      "language": "Unknown",
+      "updatedAt": "2026-03-06T05:32:07Z",
+      "topics": [],
+      "isAI": true,
+      "trendingCategory": "large language models llm"
+    },
+    {
+      "name": "mlops-for-devops",
+      "owner": "techiescamp",
+      "url": "https://github.com/techiescamp/mlops-for-devops",
+      "description": "MLOps for DevOps Engineers - A hands-on, project-based guide to Machine Learning Operations",
+      "stars": 154,
+      "forks": 69,
+      "language": "Python",
+      "updatedAt": "2026-03-06T09:57:10Z",
+      "topics": [
+        "devops",
+        "devops-mlops",
+        "mlops",
+        "mlops-project"
+      ],
+      "isAI": true,
+      "trendingCategory": "machine learning ml"
+    },
+    {
+      "name": "MLEvolve",
+      "owner": "InternScience",
+      "url": "https://github.com/InternScience/MLEvolve",
+      "description": "MLEvolve is an open-source autonomous system for end-to-end machine learning algorithm design and optimization powered by progressive search and experience-driven memory.",
+      "stars": 134,
+      "forks": 21,
+      "language": "Python",
+      "updatedAt": "2026-03-06T09:29:39Z",
+      "topics": [],
+      "isAI": true,
+      "trendingCategory": "machine learning ml"
+    },
+    {
+      "name": "howaiworks",
+      "owner": "EncyclopediaWorld",
+      "url": "https://github.com/EncyclopediaWorld/howaiworks",
+      "description": "How AI Works is a self-contained, static website that walks through the entire history of artificial intelligence and machine learning through 50 interactive model demos spanning over 200 years. ",
+      "stars": 83,
+      "forks": 13,
+      "language": "HTML",
+      "updatedAt": "2026-03-05T12:56:26Z",
+      "topics": [],
+      "isAI": true,
+      "trendingCategory": "ai artificial intelligence"
+    },
+    {
+      "name": "Foundations-of-Medical-LLMs",
+      "owner": "ZJU4HealthCare",
+      "url": "https://github.com/ZJU4HealthCare/Foundations-of-Medical-LLMs",
+      "description": " Foundations of Medical Large Language Model Learning",
+      "stars": 80,
+      "forks": 12,
+      "language": "Unknown",
+      "updatedAt": "2026-03-06T01:59:30Z",
+      "topics": [],
+      "isAI": true,
+      "trendingCategory": "large language models llm"
+    },
+    {
+      "name": "Awesome-ML-AI-Tutorial",
+      "owner": "nileshhadalgi016",
+      "url": "https://github.com/nileshhadalgi016/Awesome-ML-AI-Tutorial",
+      "description": "A comprehensive mathematics tutorial for Machine Learning and AI",
+      "stars": 67,
+      "forks": 10,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-03-05T14:30:39Z",
+      "topics": [],
+      "isAI": true,
+      "trendingCategory": "machine learning ml"
+    },
+    {
+      "name": "android-bench",
+      "owner": "android-bench",
+      "url": "https://github.com/android-bench/android-bench",
+      "description": "Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems.",
+      "stars": 63,
+      "forks": 6,
+      "language": "Python",
+      "updatedAt": "2026-03-06T09:56:58Z",
+      "topics": [],
+      "isAI": true,
+      "trendingCategory": "large language models llm"
+    },
+    {
+      "name": "rag-techniques-playbook",
+      "owner": "lamhotsiagian",
+      "url": "https://github.com/lamhotsiagian/rag-techniques-playbook",
+      "description": "A comprehensive catalog of 34 Retrieval-Augmented Generation (RAG) techniques. Features Python pseudocode, pros/cons, and architecture concepts ranging from basic retrieval to advanced agentic RAG, GraphRAG, and self-correcting workflows.",
+      "stars": 55,
+      "forks": 10,
+      "language": "Unknown",
+      "updatedAt": "2026-03-02T09:02:29Z",
+      "topics": [],
+      "isAI": true,
+      "trendingCategory": "retrieval augmented generation rag"
+    },
+    {
+      "name": "Credit-Card-Fraud-Detection-ML",
+      "owner": "Srinikesh18",
+      "url": "https://github.com/Srinikesh18/Credit-Card-Fraud-Detection-ML",
+      "description": "End-to-end Credit Card Fraud Detection using Machine Learning with SMOTE, Random Forest, and ROC-AUC evaluation.",
+      "stars": 53,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-03-03T01:25:36Z",
+      "topics": [],
+      "isAI": true,
+      "trendingCategory": "machine learning ml"
+    },
+    {
+      "name": "AI-Voice-Changer-Real-Time-2026",
+      "owner": "MagistrateVise13",
+      "url": "https://github.com/MagistrateVise13/AI-Voice-Changer-Real-Time-2026",
+      "description": "AI Voice-Changer Real-Time 2026 is advanced AI voice changer software powered by deep learning and neural networks for real-time voice transformation. Perfect for streaming, gaming, Discord, Zoom, and content creation, it offers low latency, HD audio quality, custom voice effects, and GPU acceleration for professional voice modulation",
+      "stars": 43,
+      "forks": 0,
+      "language": "C++",
+      "updatedAt": "2026-03-02T23:58:01Z",
+      "topics": [
+        "ai",
+        "audio-processing",
+        "audio-software",
+        "desktop-app",
+        "gaming-tools",
+        "live-streaming",
+        "microphone-input",
+        "real-time",
+        "real-time-audio",
+        "sound-design",
+        "streaming-tools",
+        "voice-effects",
+        "windows-application"
+      ],
+      "isAI": true,
+      "trendingCategory": "deep learning neural networks"
+    },
+    {
+      "name": "TalkType",
+      "owner": "zyk42",
+      "url": "https://github.com/zyk42/TalkType",
+      "description": "TalkType is a cross-platform application built with Electron, supporting Windows, macOS, and Linux. By combining Automatic Speech Recognition (ASR) with Large Language Models (LLM), it goes beyond simple dictation to offer \"Understanding\", \"Polishing\", and \"Q&A\" capabilities — your all-in-one voice writing assistant.",
+      "stars": 33,
+      "forks": 5,
+      "language": "JavaScript",
+      "updatedAt": "2026-03-02T22:48:03Z",
+      "topics": [],
+      "isAI": true,
+      "trendingCategory": "large language models llm"
+    },
+    {
+      "name": "ai_portfolio",
+      "owner": "anzydev",
+      "url": "https://github.com/anzydev/ai_portfolio",
+      "description": "A personal portfolio built with Human and Artificial Intelligence.",
+      "stars": 23,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-03-04T17:43:27Z",
+      "topics": [],
+      "isAI": true,
+      "trendingCategory": "ai artificial intelligence"
+    },
+    {
+      "name": "Engine-Failure-Prediction",
+      "owner": "jaikrishnan-sivaraman",
+      "url": "https://github.com/jaikrishnan-sivaraman/Engine-Failure-Prediction",
+      "description": "Engine Failure Detection using IoT and ML monitors engine parameters like temperature, vibration, pressure, and RPM using ESP32 sensors. Machine learning models analyze real-time data to predict failures early, reducing breakdowns, downtime, and maintenance costs.",
+      "stars": 22,
+      "forks": 0,
+      "language": "Unknown",
+      "updatedAt": "2026-03-05T16:00:18Z",
+      "topics": [],
+      "isAI": true,
+      "trendingCategory": "machine learning ml"
+    },
+    {
+      "name": "python-for-ai-ml",
+      "owner": "timothy-watt",
+      "url": "https://github.com/timothy-watt/python-for-ai-ml",
+      "description": "An open-source guide to Python for AI and Machine Learning",
+      "stars": 21,
+      "forks": 5,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-03-06T08:52:25Z",
+      "topics": [
+        "ai-security",
+        "aisecurity",
+        "colab",
+        "deep-learning",
+        "education",
+        "jupyter-notebook",
+        "keras",
+        "machine-learning",
+        "ml-security",
+        "mlops",
+        "mlsecops",
+        "mlsecurity",
+        "open-source",
+        "python",
+        "pytorch",
+        "reinforcement-learning",
+        "scikit-learn"
+      ],
+      "isAI": true,
+      "trendingCategory": "machine learning ml"
+    },
+    {
+      "name": "agent-studio-starter",
+      "owner": "nsphung",
+      "url": "https://github.com/nsphung/agent-studio-starter",
+      "description": "Stop building AI agents from scratch. Bootstrap starter Agent app with LangGraph, CopilotKit, and beautiful Generative UIs.",
+      "stars": 21,
+      "forks": 3,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-03-06T08:13:24Z",
+      "topics": [
+        "agents",
+        "copilotkit",
+        "copilotkitsdk",
+        "deep-agents",
+        "docker",
+        "generative-ui",
+        "kubernetes",
+        "langgraph",
+        "mcp",
+        "model-context-protocol",
+        "nextjs",
+        "python3",
+        "reactjs",
+        "skaffold",
+        "typescript"
+      ],
+      "isAI": true,
+      "trendingCategory": "generative ai"
+    },
+    {
+      "name": "academic_paper_generation",
+      "owner": "S0ra-ai",
+      "url": "https://github.com/S0ra-ai/academic_paper_generation",
+      "description": "This project aims to assist researchers in quickly generating high-quality academic papers or reports. By integrating multiple academic literature retrieval sources and large language models (LLM), and combining Retrieval-Augmented Generation (RAG) technology, it enables the full-process automation from literature collection to report writing.",
+      "stars": 20,
+      "forks": 1,
+      "language": "Python",
+      "updatedAt": "2026-03-05T07:39:09Z",
+      "topics": [],
+      "isAI": true,
+      "trendingCategory": "retrieval augmented generation rag"
+    },
+    {
+      "name": "llm-phacking",
+      "owner": "janetmalzahn",
+      "url": "https://github.com/janetmalzahn/llm-phacking",
+      "description": "Replication archive for \"Do Claude Code and Codex P-Hack? Sycophancy and Statistical Analysis in Large Language Models\"",
+      "stars": 15,
+      "forks": 0,
+      "language": "R",
+      "updatedAt": "2026-03-03T00:09:12Z",
+      "topics": [],
+      "isAI": true,
+      "trendingCategory": "large language models llm"
+    },
+    {
+      "name": "CT-Kidney-Classification-using-ML-DL",
+      "owner": "Nisha-KUMARI123",
+      "url": "https://github.com/Nisha-KUMARI123/CT-Kidney-Classification-using-ML-DL",
+      "description": "CT Kidney Disease Classification using Machine Learning ncluding SVM, Logistic Regression, Decision Tree and CNN with performance evaluation and visualization.",
+      "stars": 14,
+      "forks": 0,
+      "language": "Unknown",
+      "updatedAt": "2026-02-23T04:46:41Z",
+      "topics": [],
+      "isAI": true,
+      "trendingCategory": "machine learning ml"
+    },
+    {
+      "name": "Nano-Banana-Helper",
+      "owner": "joshmac007",
+      "url": "https://github.com/joshmac007/Nano-Banana-Helper",
+      "description": "Nano Banana Helper is a powerful macOS application for batch processing image edits using Google's generative AI (Gemini). It allows users to orchestrate complex image transformation workflows, manage costs, and organize projects efficiently.",
+      "stars": 14,
+      "forks": 2,
+      "language": "Swift",
+      "updatedAt": "2026-03-04T05:40:12Z",
+      "topics": [],
+      "isAI": true,
+      "trendingCategory": "generative ai"
+    },
+    {
+      "name": "Enterprise-RAG-Stack",
+      "owner": "honestsoul",
+      "url": "https://github.com/honestsoul/Enterprise-RAG-Stack",
+      "description": "A modular framework for building scalable Retrieval-Augmented Generation (RAG) applications. This repository provides a clean separation of concerns, moving beyond simple scripts into a robust, factory-based architecture that supports multiple LLM providers, advanced text processing, and scalable vector storage.",
+      "stars": 14,
+      "forks": 6,
+      "language": "Python",
+      "updatedAt": "2026-03-05T03:42:28Z",
+      "topics": [],
+      "isAI": true,
+      "trendingCategory": "retrieval augmented generation rag"
+    }
+  ],
+  "newsletter": "# 📈 Weekly Trending Repository Digest\n\n**Generated:** 3/6/2026\n\n---\n\n## 🔥 Top Trending Repositories by Language\n\n\n### JavaScript\n**#1 Trending:** [xcode-claw](https://github.com/FinPyromancerLog/xcode-claw) by FinPyromancerLog\n- ⭐ 228 stars | 📚 0 forks\n- 📝 No description...\n- 💼 Job Market: 50,000 openings | 💰 $110,000 avg salary | 📊 Very High demand\n\n### Python\n**#1 Trending:** [pm-skills](https://github.com/phuryn/pm-skills) by phuryn\n- ⭐ 2,485 stars | 📚 259 forks\n- 📝 PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, exec...\n- 💼 Job Market: 45,000 openings | 💰 $125,000 avg salary | 📊 Very High demand\n\n### TypeScript\n**#1 Trending:** [paperclip](https://github.com/paperclipai/paperclip) by paperclipai\n- ⭐ 4,076 stars | 📚 467 forks\n- 📝 Open-source orchestration for zero-human companies...\n- 💼 Job Market: 38,000 openings | 💰 $130,000 avg salary | 📊 Very High demand\n\n### Java\n**#1 Trending:** [monogram](https://github.com/monogram-android/monogram) by monogram-android\n- ⭐ 43 stars | 📚 1 forks\n- 📝 Telegram client for Android...\n- 💼 Job Market: 42,000 openings | 💰 $128,000 avg salary | 📊 High demand\n\n### Go\n**#1 Trending:** [cc-connect](https://github.com/chenhg5/cc-connect) by chenhg5\n- ⭐ 408 stars | 📚 37 forks\n- 📝 Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feish...\n- 💼 Job Market: 12,000 openings | 💰 $145,000 avg salary | 📊 High demand\n\n### Rust\n**#1 Trending:** [cli](https://github.com/googleworkspace/cli) by googleworkspace\n- ⭐ 12,855 stars | 📚 433 forks\n- 📝 Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, ...\n- 💼 Job Market: 8,000 openings | 💰 $155,000 avg salary | 📊 High demand\n\n### C++\n**#1 Trending:** [MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles) by smartcmd\n- ⭐ 3,106 stars | 📚 563 forks\n- 📝 A certain block game...\n- 💼 Job Market: 15,000 openings | 💰 $135,000 avg salary | 📊 High demand\n\n### C#\n**#1 Trending:** [DLLHijackHunter](https://github.com/ghostvectoracademy/DLLHijackHunter) by ghostvectoracademy\n- ⭐ 158 stars | 📚 16 forks\n- 📝 Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-co...\n- 💼 Job Market: 28,000 openings | 💰 $120,000 avg salary | 📊 High demand\n\n### Kotlin\n**#1 Trending:** [Lumera](https://github.com/LumeraD3v/Lumera) by LumeraD3v\n- ⭐ 55 stars | 📚 2 forks\n- 📝 Android TV streaming app for Stremio addons...\n- 💼 Job Market: 8,000 openings | 💰 $118,000 avg salary | 📊 Medium demand\n\n### Swift\n**#1 Trending:** [claude-usage-bar](https://github.com/Blimp-Labs/claude-usage-bar) by Blimp-Labs\n- ⭐ 135 stars | 📚 15 forks\n- 📝 A macOS menu bar app that shows your Claude API usage at a glance...\n- 💼 Job Market: 6,000 openings | 💰 $115,000 avg salary | 📊 Medium demand\n\n\n---\n\n## 🤖 Hottest AI/ML Trends This Week\n\n\n**1. [AWESOME-OCR-LLM](https://github.com/Yuliang-Liu/AWESOME-OCR-LLM)** by Yuliang-Liu\n- ⭐ 173 stars | Category: large language models llm\n- 📝 OCR in the Era of Large Language Models...\n- 🔧 Built with: Unknown\n\n**2. [mlops-for-devops](https://github.com/techiescamp/mlops-for-devops)** by techiescamp\n- ⭐ 154 stars | Category: machine learning ml\n- 📝 MLOps for DevOps Engineers - A hands-on, project-based guide to Machine Learning...\n- 🔧 Built with: Python\n\n**3. [MLEvolve](https://github.com/InternScience/MLEvolve)** by InternScience\n- ⭐ 134 stars | Category: machine learning ml\n- 📝 MLEvolve is an open-source autonomous system for end-to-end machine learning alg...\n- 🔧 Built with: Python\n\n**4. [howaiworks](https://github.com/EncyclopediaWorld/howaiworks)** by EncyclopediaWorld\n- ⭐ 83 stars | Category: ai artificial intelligence\n- 📝 How AI Works is a self-contained, static website that walks through the entire h...\n- 🔧 Built with: HTML\n\n**5. [Foundations-of-Medical-LLMs](https://github.com/ZJU4HealthCare/Foundations-of-Medical-LLMs)** by ZJU4HealthCare\n- ⭐ 80 stars | Category: large language models llm\n- 📝  Foundations of Medical Large Language Model Learning...\n- 🔧 Built with: Unknown\n\n**6. [Awesome-ML-AI-Tutorial](https://github.com/nileshhadalgi016/Awesome-ML-AI-Tutorial)** by nileshhadalgi016\n- ⭐ 67 stars | Category: machine learning ml\n- 📝 A comprehensive mathematics tutorial for Machine Learning and AI...\n- 🔧 Built with: Jupyter Notebook\n\n**7. [android-bench](https://github.com/android-bench/android-bench)** by android-bench\n- ⭐ 63 stars | Category: large language models llm\n- 📝 Android Bench is a framework for benchmarking Large Language Models (LLMs) on An...\n- 🔧 Built with: Python\n\n**8. [rag-techniques-playbook](https://github.com/lamhotsiagian/rag-techniques-playbook)** by lamhotsiagian\n- ⭐ 55 stars | Category: retrieval augmented generation rag\n- 📝 A comprehensive catalog of 34 Retrieval-Augmented Generation (RAG) techniques. F...\n- 🔧 Built with: Unknown\n\n**9. [Credit-Card-Fraud-Detection-ML](https://github.com/Srinikesh18/Credit-Card-Fraud-Detection-ML)** by Srinikesh18\n- ⭐ 53 stars | Category: machine learning ml\n- 📝 End-to-end Credit Card Fraud Detection using Machine Learning with SMOTE, Random...\n- 🔧 Built with: Jupyter Notebook\n\n**10. [AI-Voice-Changer-Real-Time-2026](https://github.com/MagistrateVise13/AI-Voice-Changer-Real-Time-2026)** by MagistrateVise13\n- ⭐ 43 stars | Category: deep learning neural networks\n- 📝 AI Voice-Changer Real-Time 2026 is advanced AI voice changer software powered by...\n- 🔧 Built with: C++\n\n## 🚀 How to Get Started with Latest AI Tech\n\n**#1 Trending Project:** AWESOME-OCR-LLM\n- **By:** Yuliang-Liu\n- **Stars:** 173\n- **Description:** OCR in the Era of Large Language Models\n- **Language:** Unknown\n- **GitHub:** https://github.com/Yuliang-Liu/AWESOME-OCR-LLM\n\n### Getting Started Path:\n1. **Clone & Install**\n   ```bash\n   git clone https://github.com/Yuliang-Liu/AWESOME-OCR-LLM.git\n   cd AWESOME-OCR-LLM\n   ```\n\n2. **Read the README** - Follow their getting started guide\n\n3. **Key Concepts to Learn:**\n   - Check the project's documentation for core concepts\n   - Study example files in the repository\n   - Join the community (GitHub discussions, Discord)\n\n4. **Hands-On Practice:**\n   - Start with basic examples\n   - Build a small project using this technology\n   - Contribute to the project\n\n5. **Career Path:**\n   - AI/ML roles are in HIGH DEMAND\n   - Average salary: $125k-$155k+\n   - YoY growth: 28-42%\n   - Big companies actively hiring: Google, Meta, OpenAI, Anthropic\n    \n\n---\n\n## 📊 This Week's Stats\n\n- **Total Trending Repos Analyzed:** 150\n- **Total Stars Collected:** 44,398\n- **AI/ML Repos Trending:** 20\n- **Languages Monitored:** 10\n\n---\n\n## 💡 Key Insights\n\n\n1. **Fastest Growing Tech:** undefined (undefined% YoY growth)\n2. **Highest Paying:** Jobs matching trending repos pay $110k-$155k on average\n3. **AI Dominance:** 13% of trending repos are AI/ML related\n4. **Best Time to Learn:** Skills trending now = higher wages in 6-12 months\n\n---\n\n## 🎯 This Week's Recommendation\n\nStart learning **Unknown** if you want to work on cutting-edge AI projects. \nTrending projects show this skill is in high demand with excellent career prospects.\n\nStay curious! 🚀\n"
+}
