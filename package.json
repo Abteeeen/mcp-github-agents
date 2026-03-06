@@ -5,8 +5,8 @@
   "type": "module",
   "main": "src/agent.js",
   "scripts": {
-    "start": "node src/agent.js",
-    "job-market": "node src/job-market-analyzer.js",
+    "start": "node github-mcp/src/agent.js",
+    "job-market": "node job-analyzer/src/job-market-analyzer.js",
     "test": "node src/test.js",
     "server": "npx -y @modelcontextprotocol/server-github"
   },
