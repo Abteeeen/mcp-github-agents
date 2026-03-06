@@ -28,7 +28,7 @@ Connect AI models to GitHub through Model Context Protocol.
 - ✅ Analyze projects
 - ✅ Track issues & PRs
 - ✅ Generate reports
-- ✅ Integrate with VS Code Copilot
+- ✅ Integrate with VS Code Copilot.
 
 **Run:** `npm start`
 
@@ -56,7 +56,7 @@ Analyze GitHub trends and correlate with real job market data.
 
 ---
 
-### 3️⃣ **Trending Digest** - Weekly Intelligence Hub 🆕
+### 3️⃣ **Trending Digest** - Weekly Intelligences Hub 🆕
 ```
 📁 trending-digest/
 ```
