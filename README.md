@@ -1,4 +1,4 @@
-# 🚀 GitHub MCP + AI Agents Framework
+# 🚀 GitHub MCP + AI Agent Framework
 
 **Three powerful agents for GitHub automation, job market intelligence, and trending tech discovery**
 
