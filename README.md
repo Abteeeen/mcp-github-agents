@@ -1,4 +1,4 @@
-# 🚀 GitHub MCP + AI Agent Framework
+# 🚀 GitHub MCP + AI Agents Framework.
 
 **Three powerful agents for GitHub automation, job market intelligence, and trending tech discovery**
 
@@ -44,8 +44,8 @@ Connect AI models to GitHub through Model Context Protocol.
 Analyze GitHub trends and correlate with real job market data.
 
 **Shows:**
-- ✅ Trending technologies
-- ✅ Job market demand
+- ✅ Trending technologie
+- ✅ Job market demands
 - ✅ Salary data by language
 - ✅ Career progression paths
 - ✅ Top companies hiring
